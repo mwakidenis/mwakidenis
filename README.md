@@ -262,5 +262,176 @@
     <p class="text-gray-500 text-sm">&copy; 2025 Mwaki Denis. All rights reserved.</p>
   </footer>
 
+  <!-- JavaScript for Animations and Graphics -->
+  <script>
+    // Particle System
+    const canvas = document.getElementById('particle-canvas');
+    const ctx = canvas.getContext('2d');
+    let particles = [];
+    let mouse = { x: null, y: null };
+
+    function resizeCanvas() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
+
+    function createParticles() {
+      particles = [];
+      const particleCount = Math.floor(window.innerWidth / 10);
+      for (let i = 0; i < particleCount; i++) {
+        particles.push({
+          x: Math.random() * canvas.width,
+          y: Math.random() * canvas.height,
+          vx: (Math.random() - 0.5) * 0.5,
+          vy: (Math.random() - 0.5) * 0.5,
+          size: Math.random() * 3 + 1,
+          color: `hsl(${Math.random() * 360}, 70%, 60%)`,
+          life: Math.random() * 100 + 50
+        });
+      }
+    }
+
+    function updateParticles() {
+      particles.forEach((particle, index) => {
+        // Mouse interaction
+        if (mouse.x && mouse.y) {
+          const dx = mouse.x - particle.x;
+          const dy = mouse.y - particle.y;
+          const distance = Math.sqrt(dx * dx + dy * dy);
+          if (distance < 100) {
+            particle.vx += dx * 0.0001;
+            particle.vy += dy * 0.0001;
+          }
+        }
+
+        particle.x += particle.vx;
+        particle.y += particle.vy;
+        particle.life--;
+
+        // Wrap around edges
+        if (particle.x < 0) particle.x = canvas.width;
+        if (particle.x > canvas.width) particle.x = 0;
+        if (particle.y < 0) particle.y = canvas.height;
+        if (particle.y > canvas.height) particle.y = 0;
+
+        // Remove dead particles
+        if (particle.life <= 0) {
+          particles.splice(index, 1);
+        }
+      });
+
+      // Add new particles occasionally
+      if (particles.length < 50 && Math.random() < 0.1) {
+        particles.push({
+          x: Math.random() * canvas.width,
+          y: Math.random() * canvas.height,
+          vx: (Math.random() - 0.5) * 0.5,
+          vy: (Math.random() - 0.5) * 0.5,
+          size: Math.random() * 3 + 1,
+          color: `hsl(${Math.random() * 360}, 70%, 60%)`,
+          life: Math.random() * 100 + 50
+        });
+      }
+    }
+
+    function drawParticles() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      particles.forEach(particle => {
+        ctx.beginPath();
+        ctx.arc(particle.x, particle.y, particle.size, 0, Math.PI * 2);
+        ctx.fillStyle = particle.color;
+        ctx.globalAlpha = particle.life / 150;
+        ctx.fill();
+      });
+      ctx.globalAlpha = 1;
+    }
+
+    function animate() {
+      updateParticles();
+      drawParticles();
+      requestAnimationFrame(animate);
+    }
+
+    // Mouse tracking
+    document.addEventListener('mousemove', (e) => {
+      mouse.x = e.clientX;
+      mouse.y = e.clientY;
+    });
+
+    document.addEventListener('mouseleave', () => {
+      mouse.x = null;
+      mouse.y = null;
+    });
+
+    // Scroll-triggered animations
+    const observerOptions = {
+      threshold: 0.1,
+      rootMargin: '0px 0px -50px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'translateY(0)';
+        }
+      });
+    }, observerOptions);
+
+    // Apply scroll animations to sections
+    document.querySelectorAll('section').forEach(section => {
+      section.style.opacity = '0';
+      section.style.transform = 'translateY(30px)';
+      section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+      observer.observe(section);
+    });
+
+    // Enhanced hover effects
+    document.querySelectorAll('.menu-icon').forEach(icon => {
+      icon.addEventListener('mouseenter', () => {
+        icon.style.transform = 'scale(1.2) rotate(5deg)';
+        icon.style.transition = 'transform 0.3s ease';
+      });
+      icon.addEventListener('mouseleave', () => {
+        icon.style.transform = 'scale(1) rotate(0deg)';
+      });
+    });
+
+    // Skill card hover effects
+    document.querySelectorAll('#skills > div > div').forEach(card => {
+      card.addEventListener('mouseenter', () => {
+        card.style.transform = 'translateY(-10px) rotateX(5deg)';
+        card.style.boxShadow = '0 20px 40px rgba(0,0,0,0.2)';
+        card.style.transition = 'transform 0.3s ease, box-shadow 0.3s ease';
+      });
+      card.addEventListener('mouseleave', () => {
+        card.style.transform = 'translateY(0) rotateX(0)';
+        card.style.boxShadow = '0 10px 20px rgba(0,0,0,0.1)';
+      });
+    });
+
+    // Click animations for bouncing elements
+    document.querySelectorAll('.bounce-slow').forEach(element => {
+      element.addEventListener('click', () => {
+        element.style.animation = 'none';
+        setTimeout(() => {
+          element.style.animation = 'bounce-slow 0.5s ease';
+        }, 10);
+      });
+    });
+
+    // Initialize
+    window.addEventListener('load', () => {
+      resizeCanvas();
+      createParticles();
+      animate();
+    });
+
+    window.addEventListener('resize', () => {
+      resizeCanvas();
+      createParticles();
+    });
+  </script>
+
 </body>
 </html>
