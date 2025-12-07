@@ -4,41 +4,41 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Mwaki Denis - Software Developer Portfolio</title>
-  
-  <!-- Base URL for GitHub Pages -->
-  <base href="./" />
-
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
-
   <!-- Font Awesome CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+  />
   <style>
     body { background-color: #ffffff; color: #000000; }
     .colored-icon { filter: none; }
-    @keyframes bounce-slow { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes bounce-slow { 0%,100%{transform:translateY(0);}50%{transform:translateY(-8px);} }
     .bounce-slow { animation: bounce-slow 3s infinite; }
     .menu-icon:hover { animation: bounce-slow 1s infinite; color: #06b6d4; }
-    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
     .fade-in { animation: fadeIn 2s ease-in; }
   </style>
 </head>
 <body class="bg-white text-black font-sans fade-in relative">
 
+  <!-- Background Canvas -->
   <canvas id="particle-canvas" class="absolute inset-0 z-0"></canvas>
 
+  <!-- Header & Nav -->
   <header class="bg-gray-100 shadow-md">
     <nav class="container mx-auto px-6 py-4 flex justify-center space-x-10 text-lg font-semibold uppercase tracking-wider">
-      <a href="#home" class="hover:text-cyan-400 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-home"></i><span>Home</span></a>
-      <a href="#about" class="hover:text-cyan-400 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-user"></i><span>About</span></a>
-      <a href="#skills" class="hover:text-cyan-400 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-code"></i><span>Skills</span></a>
-      <a href="#contact" class="hover:text-cyan-400 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-envelope"></i><span>Contact</span></a>
+      <a href="#home" class="hover:text-cyan-400 transition-colors duration-300 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-home"></i><span>Home</span></a>
+      <a href="#about" class="hover:text-cyan-400 transition-colors duration-300 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-user"></i><span>About</span></a>
+      <a href="#skills" class="hover:text-cyan-400 transition-colors duration-300 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-code"></i><span>Skills</span></a>
+      <a href="#contact" class="hover:text-cyan-400 transition-colors duration-300 flex items-center space-x-2 menu-icon colored-icon"><i class="fas fa-envelope"></i><span>Contact</span></a>
     </nav>
   </header>
 
+  <!-- Hero Section -->
   <section id="home" class="flex flex-col md:flex-row items-center justify-center py-20 px-6 container mx-auto">
-    <img src="20250824_130238.jpg" alt="Mwaki Denis" class="w-40 h-40 rounded-full border-4 border-cyan-500 mb-8 md:mb-0 md:mr-12 shadow-lg"/>
+    <img src="20250824_130238.jpg" alt="Mwaki Denis" class="w-40 h-40 rounded-full border-4 border-cyan-500 mb-8 md:mb-0 md:mr-12 shadow-lg" />
     <div class="text-left max-w-xl">
       <h1 class="text-4xl font-extrabold mb-2">Welcome to My Portfolio</h1>
       <p class="text-xl uppercase tracking-wide mb-6">Name: <span class="text-cyan-500 font-bold">Mwaki Denis</span></p>
@@ -47,21 +47,24 @@
     </div>
   </section>
 
+  <!-- About Section -->
   <section id="about" class="py-16 px-6 container mx-auto text-center">
     <h2 class="text-3xl font-bold mb-8 tracking-wide">👨‍💻 About Me</h2>
     <p class="max-w-3xl mx-auto text-lg">
       💻 Fullstack Developer (Frontend + Backend)<br>
-      📱 Specializing in <b>Mobile App Development</b> with <b>Flutter & Kotlin</b><br>
-      🔐 Passionate about <b>Cybersecurity</b><br>
-      🌱 Always learning new tech<br>
-      👨‍💻 <b>Brilliant thinking patterns</b>
+      📱 Specializing in <b>Mobile Application Development</b> with <b>Flutter & Kotlin</b><br>
+      🔐 Passionate about <b>Cybersecurity</b> and building secure systems<br>
+      🌱 Always learning and exploring new technologies<br>
+      👨‍💻 <b>Brilliant thinking patterns</b><br>
     </p>
   </section>
 
+  <!-- Skills Section -->
   <section id="skills" class="py-16 px-6 container mx-auto">
     <h2 class="text-3xl font-bold mb-4 text-center tracking-wide">🛠️ Tech Stack</h2>
     <p class="text-center max-w-3xl mx-auto mb-10">I am a Professional Software Developer with skills in:</p>
     <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
+      <!-- Skill Cards -->
       <div class="bg-gray-100 rounded-lg p-6 shadow-lg text-center">
         <i class="fas fa-pencil-ruler colored-icon text-cyan-500 text-6xl mb-4 bounce-slow"></i>
         <h3 class="text-xl font-semibold text-cyan-500 mb-2">Front-End</h3>
@@ -82,9 +85,35 @@
         <h3 class="text-xl font-semibold text-cyan-500 mb-2">Database</h3>
         <p>MongoDB, PostgreSQL, MariaDB</p>
       </div>
+      <div class="bg-gray-100 rounded-lg p-6 shadow-lg text-center">
+        <i class="fab fa-node-js colored-icon text-green-500 text-6xl mb-4 bounce-slow"></i>
+        <h3 class="text-xl font-semibold text-cyan-500 mb-2">Node.js</h3>
+        <p>Server-side JavaScript</p>
+      </div>
+      <div class="bg-gray-100 rounded-lg p-6 shadow-lg text-center">
+        <i class="fab fa-react colored-icon text-blue-500 text-6xl mb-4 bounce-slow"></i>
+        <h3 class="text-xl font-semibold text-cyan-500 mb-2">Next.js</h3>
+        <p>React Framework, SSR / SSG</p>
+      </div>
+      <div class="bg-gray-100 rounded-lg p-6 shadow-lg text-center">
+        <i class="fab fa-js-square colored-icon text-yellow-500 text-6xl mb-4 bounce-slow"></i>
+        <h3 class="text-xl font-semibold text-cyan-500 mb-2">JavaScript</h3>
+        <p>Dynamic Web Development</p>
+      </div>
+      <div class="bg-gray-100 rounded-lg p-6 shadow-lg text-center">
+        <i class="fas fa-cloud-upload-alt colored-icon text-cyan-500 text-6xl mb-4 bounce-slow"></i>
+        <h3 class="text-xl font-semibold text-cyan-500 mb-2">Deployment</h3>
+        <p>AWS, Heroku, CI/CD</p>
+      </div>
+      <div class="bg-gray-100 rounded-lg p-6 shadow-lg text-center">
+        <i class="fas fa-chart-line colored-icon text-cyan-500 text-6xl mb-4 bounce-slow"></i>
+        <h3 class="text-xl font-semibold text-cyan-500 mb-2">Analytics</h3>
+        <p>Google Analytics, monitoring</p>
+      </div>
     </div>
   </section>
 
+  <!-- Connect Section -->
   <section id="connect" class="py-16 px-6 container mx-auto text-center">
     <h2 class="text-3xl font-bold mb-8 tracking-wide">📫 Connect with Me</h2>
     <div class="flex justify-center space-x-6">
@@ -96,21 +125,114 @@
     </div>
   </section>
 
+  <!-- GitHub Analytics Section -->
+  <section class="py-16 px-6 container mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-8 tracking-wide">📊 GitHub Analytics</h2>
+    <div class="flex flex-wrap justify-center gap-8 mb-8">
+      <img src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" class="rounded-lg shadow-lg max-w-full"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwakidenis&theme=radical&hide_border=true" alt="GitHub Streak" class="rounded-lg shadow-lg max-w-full"/>
+    </div>
+    <div class="mb-8">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" class="rounded-lg shadow-lg max-w-full"/>
+    </div>
+    <div>
+      <img src="https://ghchart.rshah.org/mwakidenis" alt="GitHub Activity Graph" class="rounded-lg shadow-lg max-w-full"/>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
   <section id="contact" class="py-16 px-6 container mx-auto max-w-lg rounded-lg shadow-lg bg-gray-100">
     <h2 class="text-3xl font-bold mb-8 text-cyan-500 text-center uppercase tracking-wide">Contact Me</h2>
     <form id="contact-form" class="flex flex-col space-y-6">
       <label for="name" class="font-semibold">Name:</label>
-      <input type="text" id="name" name="name" required class="px-4 py-2 rounded bg-white border border-gray-300 text-black focus:outline-none focus:ring-2 focus:ring-cyan-500"/>
+      <input type="text" id="name" name="name" required class="px-4 py-2 rounded bg-white border border-gray-300 text-black focus:outline-none focus:ring-2 focus:ring-cyan-500" />
       <label for="email" class="font-semibold">Email:</label>
-      <input type="email" id="email" name="email" required class="px-4 py-2 rounded bg-white border border-gray-300 text-black focus:outline-none focus:ring-2 focus:ring-cyan-500"/>
+      <input type="email" id="email" name="email" required class="px-4 py-2 rounded bg-white border border-gray-300 text-black focus:outline-none focus:ring-2 focus:ring-cyan-500" />
       <label for="message" class="font-semibold">Message:</label>
       <textarea id="message" name="message" required rows="4" class="px-4 py-2 rounded bg-white border border-gray-300 text-black focus:outline-none focus:ring-2 focus:ring-cyan-500"></textarea>
       <button type="submit" class="bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-3 rounded transition-colors duration-300">Send</button>
     </form>
   </section>
 
+  <!-- Footer -->
   <footer class="bg-gray-100 text-center py-6 mt-20">
     <p class="text-gray-500 text-sm">&copy; 2025 Mwaki Denis. All rights reserved.</p>
   </footer>
+
+  <!-- JavaScript for Particle Animations and Scroll Effects -->
+  <script>
+    const canvas = document.getElementById('particle-canvas');
+    const ctx = canvas.getContext('2d');
+    let particles = [];
+    let mouse = { x: null, y: null };
+
+    function resizeCanvas() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
+    function createParticles() {
+      particles = [];
+      const count = Math.floor(window.innerWidth / 10);
+      for (let i=0;i<count;i++){
+        particles.push({x:Math.random()*canvas.width, y:Math.random()*canvas.height, vx:(Math.random()-0.5)*0.5, vy:(Math.random()-0.5)*0.5, size:Math.random()*3+1, color:`hsl(${Math.random()*360},70%,60%)`, life:Math.random()*100+50});
+      }
+    }
+    function updateParticles() {
+      particles.forEach((p,i)=>{
+        if(mouse.x&&mouse.y){
+          const dx=mouse.x-p.x, dy=mouse.y-p.y, d=Math.sqrt(dx*dx+dy*dy);
+          if(d<100){ p.vx+=dx*0.0001; p.vy+=dy*0.0001; }
+        }
+        p.x+=p.vx; p.y+=p.vy; p.life--;
+        if(p.x<0)p.x=canvas.width;if(p.x>canvas.width)p.x=0;
+        if(p.y<0)p.y=canvas.height;if(p.y>canvas.height)p.y=0;
+        if(p.life<=0) particles.splice(i,1);
+      });
+      if(particles.length<50 && Math.random()<0.1){
+        particles.push({x:Math.random()*canvas.width, y:Math.random()*canvas.height, vx:(Math.random()-0.5)*0.5, vy:(Math.random()-0.5)*0.5, size:Math.random()*3+1, color:`hsl(${Math.random()*360},70%,60%)`, life:Math.random()*100+50});
+      }
+    }
+    function drawParticles(){
+      ctx.clearRect(0,0,canvas.width,canvas.height);
+      particles.forEach(p=>{
+        ctx.beginPath();
+        ctx.arc(p.x,p.y,p.size,0,Math.PI*2);
+        ctx.fillStyle=p.color;
+        ctx.globalAlpha = p.life/150;
+        ctx.fill();
+      });
+      ctx.globalAlpha=1;
+    }
+    function animate(){ updateParticles(); drawParticles(); requestAnimationFrame(animate); }
+    document.addEventListener('mousemove', e=>{ mouse.x=e.clientX; mouse.y=e.clientY; });
+    document.addEventListener('mouseleave', ()=>{ mouse.x=null; mouse.y=null; });
+    window.addEventListener('load', ()=>{ resizeCanvas(); createParticles(); animate(); });
+    window.addEventListener('resize', ()=>{ resizeCanvas(); createParticles(); });
+
+    // Scroll Animations
+    const observer = new IntersectionObserver((entries)=>{
+      entries.forEach(entry=>{
+        if(entry.isIntersecting){
+          entry.target.style.opacity='1';
+          entry.target.style.transform='translateY(0)';
+        }
+      });
+    }, { threshold:0.1, rootMargin:'0px 0px -50px 0px' });
+    document.querySelectorAll('section').forEach(section=>{
+      section.style.opacity='0';
+      section.style.transform='translateY(30px)';
+      section.style.transition='opacity 0.6s ease, transform 0.6s ease';
+      observer.observe(section);
+    });
+
+    // Menu hover effects
+    document.querySelectorAll('.menu-icon').forEach(icon=>{
+      icon.addEventListener('mouseenter', ()=>{ icon.style.transform='scale(1.2) rotate(5deg)'; icon.style.transition='transform 0.3s ease'; });
+      icon.addEventListener('mouseleave', ()=>{ icon.style.transform='scale(1) rotate(0deg)'; });
+    });
+
+    // Skill card hover
+    document.querySelectorAll('#skills > div > div').forEach(card=>{
+      card.addEventListener('mouseenter', ()=>{ card.style.transform='translateY(-10px) rotateX(5deg)'; card.style.boxShadow='0 20px 40px rgba(0,0,0,0.2)'; card.style.transition='transform 0.3s ease, box-shadow 0.3s ease'; });
+      card.addEventListener('mouseleave', ()=>{ card.style.transform='translateY(0) rotateX(0)'; card.style.boxShadow='0 10px 20px rgba(0,0,0,0.1)'; });
+    });
+  </script>
 </body>
 </html>
