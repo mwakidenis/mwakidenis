@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mwaki Denis**
 - Email: mwakidenice.md@gmail.com
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@madebydenis](https://github.com/madebydenis)
+- LinkedIn: [Denis_IT]
+- GitHub: [@madebydenis](https://github.com/mwakidenis)
 - Twitter: [@Denis7789183947](https://x.com/@Denis7789183947)
 - WhatsApp: [+254798750585](https://wa.me/254798750585)
 
@@ -221,17 +221,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📊 GitHub Analytics Graph
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madebydenis&theme=transparent&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&theme=transparent&border_radius=10)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madebydenis&layout=compact&theme=transparent&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=transparent&border_radius=10)
 
 ### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madebydenis&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=github-compact)
 
 ## 🌐 Live Demo
 
-👉 [View Live Portfolio](https://madebydenis.github.io/portfolio)
+👉 [View Live Portfolio](https://mwakidenis.github.io/portfolio)
 
 ---
 
