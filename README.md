@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Live Demo
 
-👉 [View Live Portfolio](https://mwakidenis.github.io/portfolio)
+👉 [View Live Portfolio](https://mwakidenis.github.io/portfolio01)
 
 ---
 
