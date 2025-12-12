@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **[Mpesa Based WiFi Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project** 👉 **[✨ Egg & Poultry Store ✨](https://poultry-farm-tawny.vercel.app/)**
-- 🎮 **NEW Features**: Smooth routing, GitHub activity dashboard, and gamified achievements!  
+- 🎮 **NEW Features**: Mpesa payment integration, real-time inventory management, and responsive web design  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**  
 - 📫 How to reach me:  
