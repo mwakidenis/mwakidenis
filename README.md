@@ -406,7 +406,8 @@ src="https://img.shields.io/github/followers/mwakidenis?logo=github&style=for-th
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Mwaki+Denis+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&theme=dark)](https://github.com/mwakidenis)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mwakidenis&theme=dark)](https://github.com/mwakidenis)
+
 
 
 <!---
