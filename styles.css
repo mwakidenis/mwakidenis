@@ -43,13 +43,13 @@ body {
 
 .code-loader span:first-child,
 .code-loader span:last-child {
-    color: #9b5de5; /* purple */
-    animation: pulse 0.6s infinite; /* faster pulse */
+    color: #9b59b6; /* Purple-bluish color */
+    animation: pulse 1s infinite; /* Faster pulse */
 }
 
 .code-loader span:nth-child(2) {
-    color: #4361ee; /* blueish */
-    animation: typing 0.8s infinite; /* faster typing */
+    color: #8e44ad; /* Darker purple */
+    animation: typing 1.5s infinite; /* Faster typing */
 }
 
 @keyframes pulse {
@@ -69,7 +69,7 @@ body {
     width: 100%;
     background: rgba(10, 10, 10, 0.95);
     backdrop-filter: blur(20px);
-    border-bottom: 1px solid rgba(67, 97, 238, 0.3);
+    border-bottom: 1px solid rgba(155, 89, 182, 0.3); /* Purple border */
     z-index: 1000;
     padding: 0;
 }
@@ -89,12 +89,12 @@ body {
     gap: 10px;
     font-weight: 600;
     font-size: 1.2rem;
-    color: #4361ee; /* bluish */
+    color: #8e44ad;
 }
 
 .nav-brand i {
     font-size: 1.5rem;
-    color: #9b5de5; /* purple */
+    color: #9b59b6;
 }
 
 .nav-menu {
@@ -115,8 +115,8 @@ body {
 
 .nav-link:hover,
 .nav-link.active {
-    color: #4361ee;
-    background: rgba(67, 97, 238, 0.1);
+    color: #8e44ad;
+    background: rgba(142, 68, 173, 0.1);
 }
 
 .nav-link::after {
@@ -126,7 +126,7 @@ body {
     left: 50%;
     width: 0;
     height: 2px;
-    background: linear-gradient(90deg, #9b5de5, #4361ee);
+    background: linear-gradient(90deg, #9b59b6, #8e44ad);
     transition: all 0.3s ease;
     transform: translateX(-50%);
 }
@@ -145,7 +145,7 @@ body {
 .hamburger span {
     width: 25px;
     height: 3px;
-    background: #4361ee;
+    background: #8e44ad;
     margin: 3px 0;
     transition: 0.3s;
 }
@@ -176,7 +176,7 @@ body {
     }
 }
 
-/* Home Page Styles */
+/* Hero Section */
 .hero {
     padding: 4rem 2rem;
     max-width: 1200px;
@@ -199,22 +199,24 @@ body {
 }
 
 .gradient-text {
-    background: linear-gradient(135deg, #9b5de5 0%, #4361ee 100%);
+    background: linear-gradient(135deg, #9b59b6 0%, #8e44ad 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    background-size: 200% 200%;
+    animation: gradientShift 2s ease infinite; /* Faster gradient */
 }
 
 .hero-subtitle {
     font-size: 1.5rem;
-    color: #4361ee;
+    color: #8e44ad;
     margin-bottom: 1.5rem;
     font-weight: 400;
 }
 
 .hero-description {
     font-size: 1.1rem;
-    color: #9b5de5;
+    color: #b0b0b0;
     margin-bottom: 2rem;
     line-height: 1.7;
 }
@@ -225,142 +227,63 @@ body {
     margin-bottom: 2rem;
 }
 
-.btn {
-    padding: 12px 24px;
-    border: none;
-    border-radius: 30px;
-    font-family: 'Fira Code', monospace;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 1rem;
+/* Floating Emojis */
+.emoji {
+    position: absolute;
+    font-size: 2rem;
+    top: 20px; /* Start lower */
+    animation: floatEmoji 3s linear infinite; /* Faster movement */
 }
 
-.btn-primary {
-    background: linear-gradient(135deg, #9b5de5 0%, #4361ee 100%);
-    color: #000;
+@keyframes floatEmoji {
+    0% {
+        top: 20px;
+        opacity: 1;
+    }
+    100% {
+        top: 600px;
+        opacity: 0;
+    }
 }
 
-.btn-primary:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 10px 25px rgba(155, 93, 229, 0.3);
+/* Gradient shift animation */
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 
-.btn-secondary {
-    background: transparent;
-    color: #4361ee;
-    border: 2px solid #4361ee;
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
 }
 
-.btn-secondary:hover {
-    background: #4361ee;
-    color: #000;
-    transform: translateY(-2px);
+::-webkit-scrollbar-track {
+    background: #1a1a2e;
 }
 
-.btn-outline {
-    background: transparent;
-    color: #4361ee;
-    border: 2px solid #4361ee;
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #9b59b6, #8e44ad);
+    border-radius: 4px;
 }
 
-.btn-outline:hover {
-    background: #4361ee;
-    color: #000;
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #8e44ad, #9b59b6);
 }
 
-.btn-small {
-    padding: 8px 16px;
-    font-size: 0.9rem;
+/* Custom Selection */
+::selection {
+    background: rgba(142, 68, 173, 0.3);
+    color: #ffffff;
 }
 
-/* Hero Visual */
-.hero-visual {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.coding-animation {
-    background: rgba(0, 0, 0, 0.8);
-    border: 1px solid #4361ee;
-    border-radius: 15px;
-    padding: 2rem;
-    font-family: 'Fira Code', monospace;
-    font-size: 1rem;
-    box-shadow: 0 20px 40px rgba(67, 97, 238, 0.1);
-    animation: float 1.2s ease-in-out infinite; /* faster float */
-}
-
-@keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-}
-
-.code-line {
-    margin: 0.5rem 0;
-    animation: typewriter 1.5s infinite; /* faster typing */
-}
-
-.code-keyword { color: #ff6b6b; }
-.code-variable { color: #4361ee; }
-.code-operator { color: #9b5de5; }
-.code-string { color: #96ceb4; }
-.code-array { color: #feca57; }
-.code-method { color: #ff9ff3; }
-
-@keyframes typewriter {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 1; }
-}
-
-/* Stats Section */
-.stats-section {
-    padding: 4rem 2rem;
-    background: rgba(0, 0, 0, 0.3);
-}
-
-.stats-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-}
-
-.stat-card {
-    background: rgba(67, 97, 238, 0.1);
-    border: 1px solid rgba(67, 97, 238, 0.3);
-    border-radius: 15px;
-    padding: 2rem;
-    text-align: center;
-    transition: all 0.3s ease;
-}
-
-.stat-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 20px 40px rgba(67, 97, 238, 0.2);
-    border-color: #4361ee;
-}
-
-.stat-card i {
-    font-size: 3rem;
-    color: #9b5de5;
-    margin-bottom: 1rem;
-}
-
-.stat-card h3 {
-    font-size: 2.5rem;
-    color: #4361ee;
-    margin-bottom: 0.5rem;
-}
-
-.stat-card p {
-    color: #9b5de5;
-    font-weight: 300;
-}
+/* Utility Classes */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.mb-1 { margin-bottom: 1rem; }
+.mb-2 { margin-bottom: 2rem; }
+.mb-3 { margin-bottom: 3rem; }
+.mt-1 { margin-top: 1rem; }
+.mt-2 { margin-top: 2rem; }
+.mt-3 { margin-top: 3rem; }
