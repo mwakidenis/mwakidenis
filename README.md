@@ -19,12 +19,12 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **[Mpesa Based WiFi Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
+- 🔭 I’m currently working on **👉[Mpesa Based WiFi Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project 👉[✨ Egg & Poultry Store ✨](https://poultry-farm-tawny.vercel.app/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**
-- 🌐 Pay a visit to my **[portfolio](https://mwakidenis.github.io/mwakidenis/)**
+- 🌐 Pay a visit to my **👉[portfolio](https://mwakidenis.github.io/mwakidenis/)**
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)  
