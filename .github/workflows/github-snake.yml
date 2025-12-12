@@ -1,5 +1,4 @@
 name: GitHub Snake Game
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +6,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
