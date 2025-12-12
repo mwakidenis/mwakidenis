@@ -10,5 +10,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
           user_name: mwakidenis
-          text: MWAKIDENIS
+          text: MWAKId
       - uses: jasineri/simple-push-action@v1
