@@ -1,7 +1,7 @@
+![My Labs](https://github.com/your-username/your-repo/blob/main/mwakidenislabs.png)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Mwaki%20Denis%20%7C%20SOFTWARE%20ENGINEER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
-![My Labs](https://github.com/your-username/your-repo/blob/main/mwakidenislabs.png)
 
 
 <p id="typing" style="font-family: 'Fira Code'; font-size: 24px; color: white;"><p align="center">
