@@ -310,6 +310,7 @@
 </p>
 
 ---
+<div align="center">
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
@@ -319,33 +320,47 @@
 ---
 
 ### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=mwakidenis&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=blue&style=flat" />
+</p>
 
-<a href="https://www.github.com/mwakidenis" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mwakidenis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![committers.top badge](https://user-badge.committers.top/kenya_public/mwakidenis.svg)](https://user-badge.committers.top/kenya_public/mwakidenis)
+<p align="center">
+  <a href="https://www.github.com/mwakidenis" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/mwakidenis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+</p>
 
-[![committers.top badge](https://user-badge.committers.top/kenya/mwakidenis.svg)](https://user-badge.committers.top/kenya/mwakidenis)
+<p align="center">
+  <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
+    <img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg" />
+  </a>
+  <a href="https://user-badge.committers.top/kenya/mwakidenis">
+    <img src="https://user-badge.committers.top/kenya/mwakidenis.svg" />
+  </a>
+</p>
 
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/mwakidenis&label=Stars&query=$.stars&color=brightgreen&logo=github)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/mwakidenis&label=Stars&query=$.stars&color=brightgreen&logo=github" />
+</p>
 
 ---
+
 ## 🎮 Tetris Fun
 
-Watch the blocks stack!  
+<p align="center">
+Watch the blocks stack!<br><br>
 
-🟦🟥🟩🟨🟪🟦🟨  
-🟥🟩🟪🟦🟩🟨🟥  
-🟩🟨🟥🟦🟪🟩🟦  
-🟪🟦🟨🟥🟩🟦🟨  
-🟦🟨🟪🟩🟥🟪🟩  
+🟦🟥🟩🟨🟪🟦🟨<br>
+🟥🟩🟪🟦🟩🟨🟥<br>
+🟩🟨🟥🟦🟪🟩🟦<br>
+🟪🟦🟨🟥🟩🟦🟨<br>
+🟦🟨🟪🟩🟥🟪🟩<br><br>
 
-Keep stacking and line clearing!  
+Keep stacking and line clearing!<br>
 Play real Tetris here inside my portfolio
+</p>
 
----
+</div>
 
 ### ✨ Fun Zone
 <div align="center">
