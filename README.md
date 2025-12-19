@@ -307,6 +307,20 @@
 </p>
 
 ---
+## 🎮 Tetris Fun
+
+Watch the blocks stack!  
+
+🟦🟥🟩🟨🟪🟦🟨  
+🟥🟩🟪🟦🟩🟨🟥  
+🟩🟨🟥🟦🟪🟩🟦  
+🟪🟦🟨🟥🟩🟦🟨  
+🟦🟨🟪🟩🟥🟪🟩  
+
+Keep stacking and line clearing!  
+[Play real Tetris here](https://tetris.com/play-tetris)
+
+---
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
