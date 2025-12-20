@@ -1,4 +1,6 @@
 <div align="center">
+  ![Image](https://github.com/user-attachments/assets/2e2dd2d8-3014-4a3c-9a42-55dfa1889733)
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,18&height=220&section=header&text=Hi%20👋,%20I'm%20Mwaki%20Denis%20%7C%20SOFTWARE%20ENGINEER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 <p id="typing" style="font-family: 'Fira Code'; font-size: 24px; color: white;"><p align="center">
