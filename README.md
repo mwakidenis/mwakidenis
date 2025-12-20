@@ -1,5 +1,5 @@
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/2e2dd2d8-3014-4a3c-9a42-55dfa1889733)
+  ![Image](https://github.com/user-attachments/assets/789aee8b-c8ea-49c6-a2e1-4c4d0fb7bc42)
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,18&height=220&section=header&text=Hi%20👋,%20I'm%20Mwaki%20Denis%20%7C%20SOFTWARE%20ENGINEER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
