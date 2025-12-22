@@ -2,7 +2,7 @@ name: Update README Automation
 
 on:
   schedule:
-    - cron: "24 16 * * *"   # every day at 4:24 PM UTC
+    - cron: "31 13 * * *"   # every day at 13:31 UTC
   workflow_dispatch:        # allow manual run
 
 permissions:
@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repository
+      # 1️⃣ Checkout repository
       - uses: actions/checkout@v3
 
-      # 2️⃣ Update README.md
+      # 2️⃣ Update README.md timestamp
       - name: Update README timestamp
         run: |
           DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
 
-          # If line exists, replace it; otherwise append it
+          # Replace existing timestamp or append if missing
           if grep -q "Last updated:" README.md; then
             sed -i "s/Last updated:.*/Last updated: $DATE/" README.md
           else
@@ -29,7 +29,7 @@ jobs:
             echo "Last updated: $DATE" >> README.md
           fi
 
-          # Configure Git
+          # Configure Git identity
           git config user.name "mwakidenis"
           git config user.email "mwakidenice@gmail.com"
 
