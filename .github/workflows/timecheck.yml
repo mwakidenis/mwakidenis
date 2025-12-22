@@ -1,34 +1,42 @@
 name: Two Minute Update
 
+# Schedule workflow
 on:
   schedule:
-    - cron: "*/2 * * * *"   # every 2 minutes (approximate)
+    - cron: "*/15 * * * *"   # every 15 minutes (adjustable)
 
 permissions:
-  contents: write
+  contents: write  # needed to push changes
 
 jobs:
-  commit:
+  update-timestamp:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v3
 
+      # Step 2: Update the timestamp file
       - name: Update timestamp
         run: |
-          # Create or update updates.txt with the current UTC time
-          echo "Last checked: $(date -u)" >> updates.txt
+          # Overwrite updates.txt with current UTC time
+          echo "Last checked: $(date -u)" > updates.txt
 
-          # Configure git to use your account
+          # Configure Git
           git config user.name "mwakidenis"
-          git config user.email "mwakidenice@gmail.com"
+          git config user.email "mwakidenis@gmail.com"
 
           # Stage changes
           git add updates.txt
 
-          # Commit only if there are changes
+          # Commit if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "Update last checked timestamp"
-            git push
           else
             echo "No changes to commit"
           fi
+
+      # Step 3: Push changes using GitHub token
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
