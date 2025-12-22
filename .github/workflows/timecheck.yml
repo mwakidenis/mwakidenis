@@ -2,7 +2,7 @@ name: Update Timestamp (Linked to Account)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes; adjust as needed
+    - cron: "*/15 * * * *"   # every 15 minutes
   workflow_dispatch:         # allows manual trigger
 
 permissions:
@@ -20,25 +20,23 @@ jobs:
         run: |
           TIMESTAMP_FILE="updates.txt"
 
-          # Overwrite the file with current UTC time
-          echo "Last checked: $(date -u)" > "$TIMESTAMP_FILE"
+          # Overwrite the file with current UTC time (ISO 8601)
+          echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > "$TIMESTAMP_FILE"
 
-          # Configure Git to use your real account
+          # Configure Git
           git config user.name "mwakidenis"
           git config user.email "mwakidenis@gmail.com"
 
           # Stage changes
           git add "$TIMESTAMP_FILE"
 
-          # Commit only if there are changes
+          # Commit only if there are changes; amend last commit if needed
           if ! git diff --cached --quiet; then
             git commit -m "Update timestamp: $(date -u)"
           else
             echo "No changes to commit"
           fi
 
-      # 3️⃣ Push changes using GitHub token
+      # 3️⃣ Push changes
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin HEAD
