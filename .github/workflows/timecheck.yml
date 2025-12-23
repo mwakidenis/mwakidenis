@@ -1,8 +1,8 @@
-name: Update Timestamp (Linked to Account)
+name: Update Timestamp (Force Commit)
 
 on:
   schedule:
-    - cron: "*/43 * * * *"   # every 43 minutes
+    - cron: "*/1 * * * *"   # every 43 minutes
   workflow_dispatch: # allows manual trigger
 
 permissions:
@@ -15,13 +15,12 @@ jobs:
       # 1️⃣ Checkout the repository
       - uses: actions/checkout@v3
 
-      # 2️⃣ Update the timestamp file
+      # 2️⃣ Update timestamp file with unique content
       - name: Update timestamp
         run: |
           TIMESTAMP_FILE="updates.txt"
-
-          # Overwrite the file with current UTC time (ISO 8601)
-          echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > "$TIMESTAMP_FILE"
+          # Include UTC timestamp + random string to force a new commit
+          echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ") | $RANDOM" > "$TIMESTAMP_FILE"
 
           # Configure Git
           git config user.name "mwakidenis"
@@ -30,13 +29,9 @@ jobs:
           # Stage changes
           git add "$TIMESTAMP_FILE"
 
-          # Commit only if there are changes; amend last commit if needed
-          if ! git diff --cached --quiet; then
-            git commit -m "Update timestamp: $(date -u)"
-          else
-            echo "No changes to commit"
-          fi
+          # Commit changes (will always commit because content is unique)
+          git commit -m "Update timestamp: $(date -u)" || echo "Commit skipped (should not happen)"
 
-      # 3️⃣ Push changes
+      # 3️⃣ Push changes to main
       - name: Push changes
-        run: git push origin HEAD
+        run: git push origin main
