@@ -2,8 +2,8 @@ name: Update Timestamp (Linked to Account)
 
 on:
   schedule:
-    - cron: "6 */1 * * *"   # every 1 hours 6min
-  workflow_dispatch:         # allows manual trigger
+    - cron: "*/43 * * * *"   # every 43 minutes
+  workflow_dispatch: # allows manual trigger
 
 permissions:
   contents: write
