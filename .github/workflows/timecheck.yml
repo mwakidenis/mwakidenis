@@ -1,10 +1,9 @@
-
-name: Update Timestamp (Linked to Account)
+name: Python (Linked to Account)
 
 on:
   schedule:
-    - cron: "*/43 * * * *"   # every 43 minutes
-  workflow_dispatch:            # allows manual trigger
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,31 +12,25 @@ jobs:
   update-timestamp:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout the repository
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      # 2️⃣ Update the timestamp file
       - name: Update timestamp
         run: |
+          set -eux
+
           TIMESTAMP_FILE="updates.txt"
+          TIMESTAMP="v$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 
-          # Overwrite the file with current UTC time (ISO 8601)
-          echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > "$TIMESTAMP_FILE"
+          echo "$TIMESTAMP" > "$TIMESTAMP_FILE"
 
-          # Configure Git
-          git config user.name "mwakidenis"
-          git config user.email "mwakidenice@gmail.com"
+          mkdir -p public
+          cp "$TIMESTAMP_FILE" public/
 
-          # Stage changes
-          git add "$TIMESTAMP_FILE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Commit only if there are changes; amend last commit if needed
-          if ! git diff --cached --quiet; then
-            git commit -m "Update timestamp: $(date -u)"
-          else
-            echo "No changes to commit"
-          fi
+          git add "$TIMESTAMP_FILE" public/
+          git commit -m "Update timestamp: $TIMESTAMP"
 
-      # 3️⃣ Push changes
       - name: Push changes
-        run: git push origin HEAD
+        run: git push
