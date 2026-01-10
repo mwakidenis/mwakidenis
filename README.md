@@ -343,7 +343,7 @@ Watch the blocks stack!<br><br>
 🟦🟨🟪🟩🟥🟪🟩<br><br>
 
 Keep stacking and line clearing!<br>
-Play real Tetris here inside my portfolio
+Play real Tetris here inside my **👉[portfolio](https://mwakidenis.pages.dev/)**
 </p>
 
 </div>
