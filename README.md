@@ -1,4 +1,4 @@
-<div align="center"> 
+0<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,18&height=220&section=header&text=Hi%20👋,%20I'm%20Mwaki%20Denis%20%7C%20SOFTWARE%20ENGINEER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
  
 <p align="center" style="font-family: 'Fira Code'; font-size: 24px; color: white;">
@@ -437,5 +437,3 @@ Play real Tetris here inside my **👉[portfolio](https://mwakidenis.pages.dev/)
 mwakidenis/mwakidenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Last updated: 2025-12-22 14:34 UTC
