@@ -1,4 +1,4 @@
-0<div align="center"> 
+<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,18&height=220&section=header&text=Hi%20👋,%20I'm%20Mwaki%20Denis%20%7C%20SOFTWARE%20ENGINEER&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
  
 <p align="center" style="font-family: 'Fira Code'; font-size: 24px; color: white;">
