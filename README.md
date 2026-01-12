@@ -317,12 +317,6 @@
 </div>
 
 ---
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mwakidenis&theme=radical&no-bg=true&no-frame=true" />
-</p>
-
----
 
 ### 👀 Profile Views  
 <p align="center">
@@ -347,6 +341,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/mwakidenis&label=Stars&query=$.stars&color=brightgreen&logo=github" />
 </p>
+
+---
+
+## 📈 GitHub Activity Graph💹  
+[![Mwaki Denis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=react-dark)](https://github.com/mwakidenis/github-readme-activity-graph)
 
 ---
 
@@ -425,11 +424,6 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 | GBV SafeSpace 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://hera-safehaven.vercel.app/) | [Repo](https://github.com/mwakidenis/Hera-SafeSpace) |
 
 </div>
-
----
-
-## 📈 GitHub Activity Graph💹  
-[![Mwaki Denis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=react-dark)](https://github.com/mwakidenis/github-readme-activity-graph)
 
 ---
 
