@@ -305,15 +305,6 @@ src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_
 
 <br/>
 
-<!-- Most used languages (working version) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwakidenis%27s%20Contribution%20Graph)
-
-<br/>
 
 <!-- Quotes card -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
