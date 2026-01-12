@@ -276,54 +276,36 @@
 
   <br/>
 
-  <!-- Main GitHub stats -->
-  <img width="48%" 
+  <!-- Main GitHub stats: one per line to enlarge -->
+  <img width="80%" 
        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-
-  <img width="48%" 
+  <br/><br/>
+  <img width="80%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
   <br/><br/>
 
-  <!-- Profile summary cards -->
+  <!-- First row: profile details + repos per language -->
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
       </td>
-      <td align="center" width="33%">
-        <img width="300px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
-      </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Smallest cards: Top Contributed Repo + Most Used Languages Compact -->
-  <table>
-    <tr>
-      <td align="center">
-        <img width="400px"
-             src="https://github-contributor-stats.vercel.app/api?username=mwakidenis&limit=5&theme=radical&combine_all_yearly_contributions=true" 
-             alt="Top Contributed Repo" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="400px"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=radical&hide_border=true&card_width=400" 
-             alt="Most Used Languages Compact" />
-      </td>
-    </tr>
-  </table>
+  <!-- Second row: most commit language (smallest card enlarged) -->
+  <img width="80%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
 
-  <br/>
+  <br/><br/>
 
 </div>
 
