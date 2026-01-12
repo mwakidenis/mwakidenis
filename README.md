@@ -283,21 +283,28 @@
   <img width="48%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Profile summary cards -->
+  <!-- First row: profile details + repos per language -->
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
       </td>
-      <br/>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
       </td>
-      <td align="center" width="33%">
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Second row: most commit language (smallest card) -->
+  <table>
+    <tr>
+      <td align="center">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
       </td>
@@ -305,15 +312,6 @@
   </table>
 
   <br/>
-
-</div>
-
-
-
-
-<!-- Quotes card -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 </div>
 
