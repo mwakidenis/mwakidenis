@@ -268,6 +268,7 @@
 -->
 
 ---
+
 <div align="center">
 
   <!-- Animated header -->
@@ -276,12 +277,13 @@
 
   <br/>
 
-  <!-- Main GitHub stats (each on its own line for larger size) -->
+  <!-- Main GitHub stats: full-width, own line -->
   <img width="80%" 
        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 
   <br/><br/>
 
+  <!-- Nirzak streak stats: own line -->
   <img width="80%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
@@ -303,10 +305,10 @@
 
   <br/>
 
-  <!-- Second row: most commit language -->
+  <!-- Second row: most commit language (smallest card) -->
   <table>
     <tr>
-      <td align="center" width="100%">
+      <td align="center">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
       </td>
@@ -316,7 +318,6 @@
   <br/>
 
 </div>
-
 
 ---
 
