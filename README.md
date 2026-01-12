@@ -344,7 +344,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph💹  
+## GitHub Activity Graph 
 [![Mwaki Denis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=react-dark)](https://github.com/mwakidenis/github-readme-activity-graph)
 
 ---
