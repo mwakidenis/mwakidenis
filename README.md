@@ -269,7 +269,7 @@
 
 ---
 
-<div align="center">
+main github stats is the one we are making appear ints line so it enlarges<div align="center">
 
   <!-- Animated header -->
   <img width="100%" 
@@ -277,14 +277,11 @@
 
   <br/>
 
-  <!-- Main GitHub stats: full-width, own line -->
-  <img width="80%" 
+  <!-- Main GitHub stats -->
+  <img width="48%" 
        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 
-  <br/><br/>
-
-  <!-- Nirzak streak stats: own line -->
-  <img width="80%" 
+  <img width="48%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
   <br/><br/>
