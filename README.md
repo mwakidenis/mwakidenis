@@ -318,10 +318,6 @@ src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_
 <!-- Quotes card -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
-
-<!-- Top contributors (working replacement for Top Contributed Repo) -->
-<img src="https://git-contributors.vercel.app/api?username=mwakidenis" alt="Top GitHub Contributors" />
 
 </div>
 
