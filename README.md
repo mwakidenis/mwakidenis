@@ -285,28 +285,40 @@
 
   <br/><br/>
 
-  <!-- First row: profile details + repos per language -->
+  <!-- Profile summary cards -->
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
+      </td>
+      <td align="center" width="33%">
+        <img width="300px"
+             src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Second row: productive-time / contributions card (smallest) -->
+  <!-- Smallest cards: Top Contributed Repo + Most Used Languages Compact -->
   <table>
     <tr>
       <td align="center">
-        <img width="300px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=radical&utc_offset=5.5" />
+        <img width="400px"
+             src="https://github-contributor-stats.vercel.app/api?username=mwakidenis&limit=5&theme=radical&combine_all_yearly_contributions=true" 
+             alt="Top Contributed Repo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="400px"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=radical&hide_border=true&card_width=400" 
+             alt="Most Used Languages Compact" />
       </td>
     </tr>
   </table>
