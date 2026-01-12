@@ -276,10 +276,13 @@
 
   <br/>
 
-  <!-- Main GitHub stats -->
-  <img width="48%" 
+  <!-- Main GitHub stats (each on its own line for larger size) -->
+  <img width="80%" 
        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img width="48%" 
+
+  <br/><br/>
+
+  <img width="80%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
   <br/><br/>
@@ -300,7 +303,7 @@
 
   <br/>
 
-  <!-- Second row: most commit language (smallest card) on its own line -->
+  <!-- Second row: most commit language -->
   <table>
     <tr>
       <td align="center" width="100%">
