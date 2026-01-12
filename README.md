@@ -277,14 +277,11 @@
 
   <br/>
 
-  <!-- Main GitHub stats: full-width -->
-  <img width="80%" 
+  <!-- Main GitHub stats: normal size -->
+  <img width="48%" 
        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 
-  <br/><br/>
-
-  <!-- Nirzak streak stats: full-width, own line -->
-  <img width="80%" 
+  <img width="48%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
   <br/><br/>
@@ -305,11 +302,11 @@
 
   <br/>
 
-  <!-- Profile details (smallest card) -->
+  <!-- Profile details: ENLARGED, own line -->
   <table>
     <tr>
       <td align="center">
-        <img width="300px"
+        <img width="500px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
       </td>
     </tr>
@@ -318,7 +315,6 @@
   <br/>
 
 </div>
-
 
 ---
 
