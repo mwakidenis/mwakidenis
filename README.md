@@ -269,7 +269,7 @@
 
 ---
 
-main github stats is the one we are making appear ints line so it enlarges<div align="center">
+<div align="center">
 
   <!-- Animated header -->
   <img width="100%" 
@@ -277,35 +277,26 @@ main github stats is the one we are making appear ints line so it enlarges<div a
 
   <br/>
 
-  <!-- Main GitHub stats -->
-  <img width="48%" 
+  <!-- Main GitHub stats: full-width -->
+  <img width="80%" 
        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 
-  <img width="48%" 
+  <br/><br/>
+
+  <!-- Nirzak streak stats: full-width, own line -->
+  <img width="80%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
   <br/><br/>
 
-  <!-- First row: profile details + repos per language -->
+  <!-- Top languages row: by repo + by commit, side by side -->
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img width="300px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
-      </td>
       <td align="center" width="50%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
       </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Second row: most commit language (smallest card) -->
-  <table>
-    <tr>
-      <td align="center">
+      <td align="center" width="50%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
       </td>
@@ -314,7 +305,20 @@ main github stats is the one we are making appear ints line so it enlarges<div a
 
   <br/>
 
+  <!-- Profile details (smallest card) -->
+  <table>
+    <tr>
+      <td align="center">
+        <img width="300px"
+             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
 </div>
+
 
 ---
 
