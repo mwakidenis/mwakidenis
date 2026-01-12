@@ -301,12 +301,12 @@
 
   <br/>
 
-  <!-- Second row: most commit language (smallest card) -->
+  <!-- Second row: productive-time / contributions card (smallest) -->
   <table>
     <tr>
       <td align="center">
         <img width="300px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
+             src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=radical&utc_offset=5.5" />
       </td>
     </tr>
   </table>
