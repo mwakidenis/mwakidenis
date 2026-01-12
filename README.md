@@ -268,14 +268,15 @@
 -->
 
 ---
-
 <div align="center">
 
+<!-- Header -->
 <img width="100%" 
 src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <br/>
 
+<!-- Main Stats & Streak -->
 <img width="48%" 
 src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&theme=radical" />
 
@@ -284,6 +285,7 @@ src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_
 
 <br/><br/>
 
+<!-- Table of Cards -->
 <table>
   <tr>
     <td align="center" width="33%">
@@ -301,8 +303,28 @@ src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_
   </tr>
 </table>
 
+<br/>
+
+<!-- Additional Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
+
+<!-- Top Contributors & Most Used Languages -->
+<img src="https://github-contributor-stats.vercel.app/api?username=mwakidenis&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+
+<br/><br/>
+
+<!-- Activity Graph & Quote -->
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwakidenis's%20Contribution%20Graph)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
+
 </div>
-### 🏆 **GitHub Trophies**
+
+
+---
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mwakidenis&theme=radical&no-bg=true&no-frame=true" />
 </p>
