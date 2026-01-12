@@ -281,9 +281,9 @@
 <td width="33%">
 
    
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
-![](https://mwakidenis-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)
+![](https://mwakidenis-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)
+>
 </td>
 <td width="33%">
 
