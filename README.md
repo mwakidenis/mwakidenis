@@ -283,7 +283,7 @@
   <img width="48%" 
        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Profile summary cards -->
   <table>
@@ -292,6 +292,7 @@
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
       </td>
+      <br/>
       <td align="center" width="33%">
         <img width="300px"
              src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
