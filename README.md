@@ -306,7 +306,7 @@ src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_
 <br/>
 
 <!-- Most used languages (working version) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&langs_count=8&theme=radical&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
 
 <br/><br/>
 
