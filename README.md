@@ -270,62 +270,60 @@
 ---
 <div align="center">
 
-  <!-- Header Capsule -->
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated header -->
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-  <br/>
+<br/>
 
-  <!-- GitHub Stats & Streaks -->
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img width="48%" 
-       src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
+<!-- Main GitHub stats -->
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 
-  <br/><br/>
+<img width="48%" 
+src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 
-  <!-- Top Languages, Stats, Productive Time -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img height="200"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=radical&hide_border=true&langs_count=8" 
-             alt="Most Used Languages" />
-      </td>
-      <td align="center" width="33%">
-        <img
-             src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwakidenis&theme=radical" 
-             alt="GitHub Stats Card" />
-      </td>
-      <td align="center" width="33%">
-        <img
-             src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=radical&utc_offset=5.5" 
-             alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
+<br/><br/>
 
-  <br/>
+<!-- Profile summary cards -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
+    </td>
+    <td align="center" width="33%">
+      <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
+    </td>
+    <td align="center" width="33%">
+      <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Top Contributed Repos -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=mwakidenis&limit=5&theme=radical" alt="Top Contributed Repo" />
-  <br/>
+<br/>
 
-  <!-- Most Used Languages (Compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages Compact" />
+<!-- Most used languages (working version) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&langs_count=8&theme=radical&hide_border=true" alt="Most Used Languages" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwakidenis's%20Contribution%20Graph" alt="GitHub Activity Graph" />
-  <br/>
+<!-- Contribution Graph -->
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwakidenis%27s%20Contribution%20Graph)
 
-  <!-- Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
+<br/>
+
+<!-- Quotes card -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+<!-- Top contributors (working replacement for Top Contributed Repo) -->
+<img src="https://git-contributors.vercel.app/api?username=mwakidenis" alt="Top GitHub Contributors" />
 
 </div>
-
-
 
 ---
 ### 🏆 GitHub Trophies
