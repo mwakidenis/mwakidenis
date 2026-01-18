@@ -91,11 +91,6 @@ alt="Continuous Emoji Animation"/>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-> **🎮 Play Tetris with Me!**  
-<a href="https://mwakidenis.github.io/games" target="_blank">
-<img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
-</a>
-
 <a href="https://github.com/sponsors/MWAKIDENIS" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
 </a>
@@ -123,8 +118,12 @@ alt="Continuous Emoji Animation"/>
 
 ---
 
-## 🎮 TETRIS FUN (Official Game Section)
+## 🎮 TETRIS FUN 
 
+**🎮 Play Tetris with Me!**  
+<a href="https://mwakidenis.github.io/games" target="_blank">
+<img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
+</a>
 <p align="center">
 Watch the blocks stack!<br><br>
 
