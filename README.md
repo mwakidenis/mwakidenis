@@ -64,7 +64,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor)](https://git.io/typing-svg)<br><br>
 
-![starline](https://starlines.qoo.monster/assets/mwakidenis)
 
 </div>
 
@@ -85,7 +84,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mwakidenice@gmail.com)  
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
-
 
 
 ## My Tech Arsenal
