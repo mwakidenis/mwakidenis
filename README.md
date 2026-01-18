@@ -17,13 +17,6 @@ alt="Continuous Emoji Animation"/>
 
 ![starline](https://starlines.qoo.monster/assets/mwakidenis)
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-<a href="https://mwakidenis.github.io"><img src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/main/src/sayhi.svg" /></a> 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><br>
-
-Fullstack Web Developer
---------------------------
-
 </div>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
