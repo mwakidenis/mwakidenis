@@ -46,7 +46,6 @@ alt="Continuous Emoji Animation"/>
 
 
 ##  
-<h2 align="center">📊 Profile Stats</h2>
 
 <br><br>
 <div align=center>
