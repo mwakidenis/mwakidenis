@@ -471,8 +471,6 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 My progress can be tracked from GitRoll
 </div>
 
-###### mwakidenis___________________________________________________________________________________________________© 2025 Mwaki Denis - Crafted with ❤️ 
-
 ---
 
 ## 🐍 Slither Into My Code Kingdom😂
@@ -494,6 +492,9 @@ My progress can be tracked from GitRoll
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+
+###### mwakidenis___________________________________________________________________________________________________© 2025 Mwaki Denis - Crafted with ❤️ 
 
 <!---
 mwakidenis/mwakidenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
