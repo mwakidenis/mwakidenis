@@ -87,7 +87,7 @@
 
 <div align="center">
 
-## 🛠️ My Tech Arsenal  
+## 🖥️ My Tech Arsenal  
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
