@@ -99,27 +99,28 @@
 
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="left" width="50%">
 
 ## 🐾 Git Animals  
-<img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
+<img src="https://render.gitanimals.org/farms/mwakidenis" width="500"/>
 
-</div>
+</td>
 
----
+<td align="right" width="50%">
 
-<h2 align="center">🎮 TETRIS FUN</h2>
-
-<div align="center">
+## 🎮 TETRIS FUN  
 
 <a href="https://mwakidenis.github.io/games" target="_blank">
   <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
 </a>
 
-
 **🎮 Play Tetris with Me!**  
 Watch the blocks stack!
 
-<p>
 🟦🟥🟩🟨🟪🟦🟨<br>
 🟥🟩🟪🟦🟩🟨🟥<br>
 🟩🟨🟥🟦🟪🟩🟦<br>
@@ -128,11 +129,15 @@ Watch the blocks stack!
 
 Keep stacking and clearing lines! 🚀<br>
 🎮 **Play the real game here:** 👉 https://bit.ly/49wfF2O
-</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
 ## 🌱 Current Stack
 
 - ⚛️ **React.js** — modern, component-based UI  
