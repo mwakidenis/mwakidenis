@@ -138,8 +138,6 @@ Keep stacking and clearing lines! 🚀<br>
 
 ---
 
----
-
 ## 🌱 Current Stack
 
 - ⚛️ **React.js** — modern, component-based UI  
@@ -154,6 +152,36 @@ Keep stacking and clearing lines! 🚀<br>
 - 🎨 **Passion & Determination**
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects
+
+> [!IMPORTANT]  
+> Dreaming up ideas and making them come true is where my passion lies.  
+> Java Beauty Suite contains more than these 5 projects.  
+> You are free to fork and collaborate with me.
+
+<div align="center"> 
+  
+  **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://mwakidenis.github.io&style=for-the-badge)](https://mwakidenis.github.io)**
+  
+  <table> 
+    <tr> 
+      <th>APP</th> 
+      <th>STATUS</th> 
+      <th>PATH</th> 
+      <th>STARS</th> 
+    </tr> 
+    <tr> 
+      <td><b>MERN_STACK_PROJECTS</b></td>
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator">🔗 MERN_STACK_PROJECTS</a></td> 
+      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/mwakidenis/Java_Beauty_Calculator?style=for-the-badge&logo=github"> </a> </td> 
+    </tr> 
+  </table> 
+</div>
+
 
 ## 🌍 Priority & Current Focus
 
@@ -203,35 +231,6 @@ but also playful, creative, and beautifully crafted 🚀.
 ---
 
 ### ⭐ **Show some love by starring my repos!** 😊  
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects
-
-> [!IMPORTANT]  
-> Dreaming up ideas and making them come true is where my passion lies.  
-> Java Beauty Suite contains more than these 5 projects.  
-> You are free to fork and collaborate with me.
-
-<div align="center"> 
-  
-  **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://mwakidenis.github.io&style=for-the-badge)](https://mwakidenis.github.io)**
-  
-  <table> 
-    <tr> 
-      <th>APP</th> 
-      <th>STATUS</th> 
-      <th>PATH</th> 
-      <th>STARS</th> 
-    </tr> 
-    <tr> 
-      <td><b>Java_Beauty_Calculator</b></td>
-      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
-      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator">🔗 Java_Beauty_Calculator</a></td> 
-      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/mwakidenis/Java_Beauty_Calculator?style=for-the-badge&logo=github"> </a> </td> 
-    </tr> 
-  </table> 
-</div>
 
 ---
 
