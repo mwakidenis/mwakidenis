@@ -96,9 +96,10 @@ alt="Continuous Emoji Animation"/>
  <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
 </div>
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
+</p>
 
----
 
 <div align="center">
 
