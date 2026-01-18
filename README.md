@@ -98,60 +98,29 @@ but also playful, creative, and beautifully crafted 🚀.
   <img width="100%" 
        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-  <br/>
+## My Tech Arsenal
 
-  <!-- Main GitHub stats: normal size -->
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-  <img width="48%" 
-       src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br>
 
-  <br/><br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 
-  <!-- Top languages row: by repo + by commit, side by side -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img width="300px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwakidenis&theme=radical" />
-      </td>
-      <td align="center" width="50%">
-        <img width="300px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mwakidenis&theme=radical" />
-      </td>
-    </tr>
-  </table>
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwaki%20Denis's%20Contribution%20Graph)  
 
-  <br/>
+<!-- Git Animals -->
+## Git Animals 
+<img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
 
-  <!-- Profile details: ENLARGED, own line -->
-  <table>
-    <tr>
-      <td align="center">
-        <img width="500px"
-             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical" />
-      </td>
-    </tr>
-  </table>
+## 🌐 Connect & Support    
 
-  <br/>
-
+<div align=center>
+<a href="https://github.com/mwakidenis"><img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" /></a>
+<a href="https://gitlab.com/mwakidenis"><img width="40" height="40" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" /></a>
+<a href="https://bitbucket.org/mwakidenis/workspace/overview/"><img width="40" height="40" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" /></a>
+My progress can be tracked from GitRoll
 </div>
-
----
-
-### 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=blue&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://www.github.com/mwakidenis" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/mwakidenis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
     <img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg" />
@@ -161,14 +130,7 @@ but also playful, creative, and beautifully crafted 🚀.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/mwakidenis&label=Stars&query=$.stars&color=brightgreen&logo=github" />
-</p>
 
----
-
-## GitHub Activity Graph 
-[![Mwaki Denis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=react-dark)](https://github.com/mwakidenis/github-readme-activity-graph)
 
 ---
 
@@ -269,29 +231,6 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## My Tech Arsenal
-
-![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
-
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwaki%20Denis's%20Contribution%20Graph)  
-
-<!-- Git Animals -->
-## Git Animals 
-<img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
-
-## 🌐 Connect & Support    
-
-<div align=center>
-<a href="https://github.com/mwakidenis"><img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" /></a>
-<a href="https://gitlab.com/mwakidenis"><img width="40" height="40" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" /></a>
-<a href="https://bitbucket.org/mwakidenis/workspace/overview/"><img width="40" height="40" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" /></a>
-My progress can be tracked from GitRoll
-</div>
 
 ---
 
