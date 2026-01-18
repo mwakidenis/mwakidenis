@@ -85,10 +85,9 @@
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
 
-
-## My Tech Arsenal
-
 <div align="center">
+
+## 🛠️ My Tech Arsenal  
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
@@ -98,7 +97,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
 
-<div align="center">
+</div>
+
 
 ## 🐾 Git Animals  
 <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
