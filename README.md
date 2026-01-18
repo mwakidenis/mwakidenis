@@ -44,7 +44,6 @@ alt="Continuous Emoji Animation"/>
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
 
----
 
 ## ✅ Profile Stats 
 
