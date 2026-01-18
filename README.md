@@ -60,12 +60,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
-
-<div align="center">
-
-<img width="100%" 
-     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
 ---
 
 <div align=center>
