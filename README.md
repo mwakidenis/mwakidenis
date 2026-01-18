@@ -6,6 +6,9 @@
   />
 </p>
 
+<h3 align="center">I'm Mwaki Denis</h3>
+
+
 <p align="center" style="font-family: 'Fira Code'; font-size: 24px; color: white;">
 <img
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=32FF7E&center=true&vCenter=true&width=450&lines=💻;😁;💻;🙈;🌐;🤝;😁;🚀;🤖&repeat=true"
