@@ -1,4 +1,4 @@
-make sure everything is optimized for difrrenrent scree <p align="center">
+<p align="center">
 <a name="readme-top"></a>
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
