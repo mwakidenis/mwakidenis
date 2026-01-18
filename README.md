@@ -117,13 +117,13 @@ alt="Continuous Emoji Animation"/>
 <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
 
 ---
-
-## 🎮 TETRIS FUN 
+## 🎮 TETRIS FUN  
 
 **🎮 Play Tetris with Me!**  
 <a href="https://mwakidenis.github.io/games" target="_blank">
-<img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
+  <img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
 </a>
+
 <p align="center">
 Watch the blocks stack!<br><br>
 
@@ -133,8 +133,8 @@ Watch the blocks stack!<br><br>
 🟪🟦🟨🟥🟩🟦🟨<br>
 🟦🟨🟪🟩🟥🟪🟩<br><br>
 
-Keep stacking and line clearing!<br>
-🎮 **Play real Tetris here:** 👉 https://bit.ly/49wfF2O
+Keep stacking and clearing lines! 🚀<br>
+🎮 **Play the real game here:** 👉 https://bit.ly/49wfF2O
 </p>
 
 ---
