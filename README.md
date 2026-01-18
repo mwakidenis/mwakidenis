@@ -101,19 +101,24 @@
 </div>
 
 ## Git Animals 
-<img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
+</p>
 
 ---
-## 🎮 TETRIS FUN  
 
-**🎮 Play Tetris with Me!**  
+<h2 align="center">🎮 TETRIS FUN</h2>
+
+<div align="center">
+
 <a href="https://mwakidenis.github.io/games" target="_blank">
-  <img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
+  <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
 </a>
 
-Watch the blocks stack!  
+**🎮 Play Tetris with Me!**  
+Watch the blocks stack!
 
-<p align="center">
+<p>
 🟦🟥🟩🟨🟪🟦🟨<br>
 🟥🟩🟪🟦🟩🟨🟥<br>
 🟩🟨🟥🟦🟪🟩🟦<br>
@@ -123,6 +128,8 @@ Watch the blocks stack!
 Keep stacking and clearing lines! 🚀<br>
 🎮 **Play the real game here:** 👉 https://bit.ly/49wfF2O
 </p>
+
+</div>
 
 ---
 ## 🌱 Current Stack
