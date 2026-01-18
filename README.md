@@ -6,8 +6,6 @@
   />
 </p>
 
-
-<br><br>
 <div align=center>
   <h2 align="center">📊 Profile Stats</h2>
   <table align="center">
