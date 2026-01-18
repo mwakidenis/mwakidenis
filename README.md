@@ -410,21 +410,70 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 
 ---
 <div align = "center">
-  
-## 🛠️ Projects I'm Proud Of
-| Project            | Stack            | Live Demo                | Repo |
-|----------------|-----------------|---------------------|-------------------|
-| 🌐Mpesa Based WiFi Billing System 🤖    | Javascript, Typescript, React, Miktrotik-API | [Live](https://anotherone-production-dcdb.up.railway.app/) | [Repo](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System.git) |
-| Agri-Market-System👩‍🌾🌱    | React/Supabase Stack, AI, Tailwind CSS | [Live](https://farm-connect-market-wise.vercel.app/) | [Repo](https://github.com/mwakidenis/Agri-Market-System.git) |
-| Church Event Management System 🌐     | React, Typescript, TanStack Query | [Live](https://church-digital-system.vercel.app/) | [Repo](https://github.com/mwakidenis/Church-Event-Management-System.git) |
-| Agro-Regen-AI🌱💚   | Supabase, AI, APIs, Typescript | [Live](https://agro-regen-ai.vercel.app/) | [Repo](https://github.com/mwakidenis/AI-Powered-Regenerative-Agriculture-System.git) |
-| Kuza-Skills💻💸🚀 | MERN Stack, Next.js, Firebase Auth | [Live](https://digital-skill-stride.vercel.app/) | [Repo](https://github.com/mwakidenis/Kuza-Skills-Platform.git) |
-| Kazi-Haven👩‍🏫🚀     | MERN Stack, Job Portal, Tailwind CSS | [Live](https://kazi-haven.vercel.app/) | [Repo](https://github.com/mwakidenis/Kazi-Haven.git) |
-| University Marketplace 🛍️ | MERN Stack, Next.js, Firebase Auth | [Live](https://kuzamarket2.vercel.app/) | [Repo](https://github.com/mwakidenis/University-Marketplace.git) |
-| 🚮Takataka REWARD System💚🌍 | MERN Stack, Next.js, Firebase Auth | [Live](https://taka-smart-rewards.vercel.app/) | [Repo](https://github.com/mwakidenis/TakaSmart-Reward-System.git) |
-| GBV SafeSpace 🗺️ | React, Tailwind CSS, Google Maps API | [Live](https://hera-safehaven.vercel.app/) | [Repo](https://github.com/mwakidenis/Hera-SafeSpace) |
+ 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
 
+<div align=left>
+<kbd align="left" valign="left">
+<u><i>*These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u>
+</kbd><br><br>
 </div>
+
+> [!IMPORTANT]
+> Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories). <br>
+> Java Beauty Suite contains more than these 5 projects. <br>
+> All the projects coming under Java Beauty Suite are Unregistered Trademark of **Mwaki Denis** <br>
+> But you are free to fork and Collaborate with me. <br>
+
+<div align="center"> 
+  
+  **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://mwakidenis.github.io&style=for-the-badge)](https://mwakidenis.github.io)**
+  
+  <table> 
+    <tr> 
+      <th> APP</th> 
+      <th> STATUS</th> 
+      <th> PATH</th> 
+      <th> STARS</th> 
+    </tr> 
+    <tr> 
+      <td><b>Java_Beauty_Calculator</b></td>
+      <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
+      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator">🔗 Java_Beauty_Calculator</a></td> 
+      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/mwakidenis/Java_Beauty_Calculator?style=for-the-badge&logo=github"> </a> </td> 
+    </tr> 
+  </table> 
+</div>
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+## My Tech Arsenal
+
+![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
+
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwaki%20Denis's%20Contribution%20Graph)  
+
+<!-- Git Animals -->
+## Git Animals 
+<img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
+
+## 🌐 Connect & Support    
+
+<div align=center>
+<a href="https://github.com/mwakidenis"><img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" /></a>
+<a href="https://gitlab.com/mwakidenis"><img width="40" height="40" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" /></a>
+<a href="https://bitbucket.org/mwakidenis/workspace/overview/"><img width="40" height="40" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" /></a>
+My progress can be tracked from GitRoll
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+###### mwakidenis___________________________________________________________________________________________________© 2025 Mwaki Denis - Crafted with ❤️ 
 
 ---
 
