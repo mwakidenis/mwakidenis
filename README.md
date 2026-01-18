@@ -6,8 +6,9 @@
   />
 </p>
 
-<h3 align="center">I'm</h3>
-<h3 align="center">mwakidenis</h3>
+<h4 align="center">I'm</h4>
+<h4 align="center">Mwaki Denis</h4>
+
 
 <p align="center" style="font-family: 'Fira Code'; font-size: 24px; color: white;">
 <img
