@@ -13,8 +13,6 @@
 
 > **👨‍💻 About Me**
 
- 
-
 - 🔭 I’m currently working on **👉[Mpesa Based WiFi Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project 👉[Egg & Poultry Store ✨](https://poultry-farm-tawny.vercel.app/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
@@ -28,7 +26,63 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mwakidenice@gmail.com)  
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
-<div align="center">
+
+</div>
+
+---
+
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor)](https://git.io/typing-svg)<br><br>
+
+![starline](https://starlines.qoo.monster/assets/mwakidenis)
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+<a href="https://mwakidenis.github.io"><img src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/main/src/sayhi.svg" /></a> 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><br>
+
+Fullstack Web Developer
+--------------------------
+
+</div>
+
+---
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+## 🌱 Current Stack
+
+- ⚛️ **React.js** — modern, component-based UI  
+- ▲ **Next.js** — fullstack framework & performance  
+- 🍃 **Node.js & Express** — backend & APIs  
+- 🍀 **MongoDB** — database & data modeling  
+- 🎨 **HTML & CSS** — responsive UI foundation  
+- 🛠 **GitLab (CI/CD)**  
+- 🚀 **Git & GitHub Desktop** — version control  
+- 🏞 **Bitbucket + Jira** — agile workflow  
+- ⚓ **VS Code** — primary editor  
+- 🎨 **Passion & Determination**
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+## 🌍 Priority & Current Focus
+
+Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
+while continuing to highlight the true *beauty in JavaScript and modern web development* through every project I create.
+
+I am focused on mastering **Next.js (App Router, Server Components, Performance)**,  
+improving my **GitHub workflows**, and refining **clean coding practices** 🌱.
+
+My ultimate goal is to deliver **open-source MERN + Next.js applications** that are not only useful and professional  
+but also playful, creative, and beautifully crafted 🚀.
+
+---
+
+> To express my gratitude for your support and love, I have prepared a small gift for you. Click on the icon!  
+<a href="https://mwakidenis.github.io/games" target="_blank">
+<img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px">
+</a>
+
 <a href="https://github.com/sponsors/MWAKIDENIS" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
 </a>
