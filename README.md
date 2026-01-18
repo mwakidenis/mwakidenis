@@ -45,10 +45,12 @@ alt="Continuous Emoji Animation"/>
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
 
 
+
 ##  
 
 <br><br>
 <div align=center>
+  <h2 align="center">📊 Profile Stats</h2>
   <table align="center">
   <thead align="center">
     <tr>
