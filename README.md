@@ -150,8 +150,9 @@ Keep stacking and clearing lines! 🚀<br>
 - 🏞 **Bitbucket + Jira** — agile workflow  
 - ⚓ **VS Code** — primary editor  
 - 🎨 **Passion & Determination**
-- <p align="center">
-  ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
 
@@ -182,10 +183,9 @@ Keep stacking and clearing lines! 🚀<br>
   </table> 
 </div>
 
- <p align="center">
-  ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
-
 ## 🌍 Priority & Current Focus
 
 Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
