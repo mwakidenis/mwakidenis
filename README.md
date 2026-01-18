@@ -124,9 +124,9 @@ alt="Continuous Emoji Animation"/>
   <img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
 </a>
 
-<p align="center">
-Watch the blocks stack!<br><br>
+Watch the blocks stack!  
 
+<p align="center">
 🟦🟥🟩🟨🟪🟦🟨<br>
 🟥🟩🟪🟦🟩🟨🟥<br>
 🟩🟨🟥🟦🟪🟩🟦<br>
