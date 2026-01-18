@@ -110,7 +110,7 @@
 
 </td>
 
-<td align="right" width="50%">
+<td align="center" width="50%">
 
 ## 🎮 TETRIS FUN  
 
@@ -135,6 +135,8 @@ Keep stacking and clearing lines! 🚀<br>
 </table>
 
 </div>
+
+---
 
 ---
 
