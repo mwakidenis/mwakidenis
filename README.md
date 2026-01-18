@@ -92,7 +92,7 @@
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
