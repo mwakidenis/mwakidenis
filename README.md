@@ -46,7 +46,7 @@ Fullstack Web Developer
 
 ---
 
-## ✅ Profile Stats (Recovered + Committers TopRank)
+## ✅ Profile Stats 
 
 <br><br>
 <div align=center>
@@ -98,34 +98,6 @@ Fullstack Web Developer
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-## 🌱 Current Stack
-
-- ⚛️ **React.js** — modern, component-based UI  
-- ▲ **Next.js** — fullstack framework & performance  
-- 🍃 **Node.js & Express** — backend & APIs  
-- 🍀 **MongoDB** — database & data modeling  
-- 🎨 **HTML & CSS** — responsive UI foundation  
-- 🛠 **GitLab (CI/CD)**  
-- 🚀 **Git & GitHub Desktop** — version control  
-- 🏞 **Bitbucket + Jira** — agile workflow  
-- ⚓ **VS Code** — primary editor  
-- 🎨 **Passion & Determination**
-
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
-
-## 🌍 Priority & Current Focus
-
-Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
-while continuing to highlight the true *beauty in JavaScript and modern web development* through every project I create.
-
-I am focused on mastering **Next.js (App Router, Server Components, Performance)**,  
-improving my **GitHub workflows**, and refining **clean coding practices** 🌱.
-
-My ultimate goal is to deliver **open-source MERN + Next.js applications** that are not only useful and professional  
-but also playful, creative, and beautifully crafted 🚀.
-
----
-
 > **🎮 Play Tetris with Me!**  
 <a href="https://mwakidenis.github.io/games" target="_blank">
 <img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
@@ -172,6 +144,33 @@ Watch the blocks stack!<br><br>
 Keep stacking and line clearing!<br>
 🎮 **Play real Tetris here:** 👉 https://bit.ly/49wfF2O
 </p>
+
+---
+## 🌱 Current Stack
+
+- ⚛️ **React.js** — modern, component-based UI  
+- ▲ **Next.js** — fullstack framework & performance  
+- 🍃 **Node.js & Express** — backend & APIs  
+- 🍀 **MongoDB** — database & data modeling  
+- 🎨 **HTML & CSS** — responsive UI foundation  
+- 🛠 **GitLab (CI/CD)**  
+- 🚀 **Git & GitHub Desktop** — version control  
+- 🏞 **Bitbucket + Jira** — agile workflow  
+- ⚓ **VS Code** — primary editor  
+- 🎨 **Passion & Determination**
+
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+
+## 🌍 Priority & Current Focus
+
+Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
+while continuing to highlight the true *beauty in JavaScript and modern web development* through every project I create.
+
+I am focused on mastering **Next.js (App Router, Server Components, Performance)**,  
+improving my **GitHub workflows**, and refining **clean coding practices** 🌱.
+
+My ultimate goal is to deliver **open-source MERN + Next.js applications** that are not only useful and professional  
+but also playful, creative, and beautifully crafted 🚀.
 
 ---
 
