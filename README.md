@@ -1,6 +1,9 @@
 <p align="center">
 <a name="readme-top"></a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
+    width="100%"
+  />
 </p>
 
 <p align="center" style="font-family: 'Fira Code'; font-size: 24px; color: white;">
