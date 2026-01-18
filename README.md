@@ -11,6 +11,21 @@
 
 ---
 
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor)](https://git.io/typing-svg)<br><br>
+
+![starline](https://starlines.qoo.monster/assets/mwakidenis)
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
+<a href="https://mwakidenis.github.io"><img src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/main/src/sayhi.svg" /></a> 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><br>
+
+Fullstack Web Developer
+--------------------------
+
+</div>
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 > **👨‍💻 About Me**
@@ -29,25 +44,6 @@
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
 
-</div>
-
----
-
-<div align=center>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=;Fullstack+Developer;MERN+Stack+Builder;Next.js+Enthusiast;React+Lover;Open+Source+Contributor)](https://git.io/typing-svg)<br><br>
-
-![starline](https://starlines.qoo.monster/assets/mwakidenis)
-
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> 
-<a href="https://mwakidenis.github.io"><img src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/main/src/sayhi.svg" /></a> 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /><br>
-
-Fullstack Web Developer
---------------------------
-
-</div>
-
 ---
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
@@ -65,7 +61,7 @@ Fullstack Web Developer
 - ⚓ **VS Code** — primary editor  
 - 🎨 **Passion & Determination**
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+---
 
 ## 🌍 Priority & Current Focus
 
@@ -88,15 +84,13 @@ but also playful, creative, and beautifully crafted 🚀.
 <a href="https://github.com/sponsors/MWAKIDENIS" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
 </a>
-</div>  
 
 ---
 
 <div align="center">
 
-  <!-- Animated header -->
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" 
+     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ## My Tech Arsenal
 
@@ -107,11 +101,12 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwaki%20Denis's%20Contribution%20Graph)  
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&theme=dracula&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
 
-<!-- Git Animals -->
 ## Git Animals 
 <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
+
+---
 
 ## 🌐 Connect & Support    
 
@@ -121,6 +116,7 @@ but also playful, creative, and beautifully crafted 🚀.
 <a href="https://bitbucket.org/mwakidenis/workspace/overview/"><img width="40" height="40" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" /></a>
 My progress can be tracked from GitRoll
 </div>
+
 <p align="center">
   <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
     <img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg" />
@@ -129,8 +125,6 @@ My progress can be tracked from GitRoll
     <img src="https://user-badge.committers.top/kenya/mwakidenis.svg" />
   </a>
 </p>
-
-
 
 ---
 
@@ -149,8 +143,6 @@ Keep stacking and line clearing!<br>
 Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 </p>
 
-</div>
-
 ---
 
 ### ✨ Fun Zone
@@ -164,7 +156,6 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 
 ---
 
-
 ### 📫 **Connect with Me**
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Apro5550)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwakidenis)
@@ -173,41 +164,31 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/l/6lp1kJRRR)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@denicemwaki?si=rewYQiy379ztYPVN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a/)
-[![Devfolio Badge](https://img.shields.io/badge/Devfolio-Profile-blue?style=for-the-badge&logo=devdotto)](https://github.com/mwakidenis/)
 
 <div align="center">
 <a href="https://github.com/sponsors/mwakidenis" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
 </a>
-</div>  
-    
+</div>
+
 ---
 
 ## Welcome to the Interactive Guestbook! 🚀
 
-### Feel free to leave your mark 😉 by clicking the button below and dropping a message! 💬
-
 [![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/mwakidenis/mwakidenis/discussions/1)
 
 ---
+
 ### ⭐ **Show some love by starring my repos!** 😊  
 
 ---
-<div align = "center">
- 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
 
-<div align=left>
-<kbd align="left" valign="left">
-<u><i>*These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u>
-</kbd><br><br>
-</div>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects
 
-> [!IMPORTANT]
-> Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories). <br>
-> Java Beauty Suite contains more than these 5 projects. <br>
-> All the projects coming under Java Beauty Suite are Unregistered Trademark of **Mwaki Denis** <br>
-> But you are free to fork and Collaborate with me. <br>
+> [!IMPORTANT]  
+> Dreaming up ideas and making them come true is where my passion lies.  
+> Java Beauty Suite contains more than these 5 projects.  
+> You are free to fork and collaborate with me.
 
 <div align="center"> 
   
@@ -215,10 +196,10 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
   
   <table> 
     <tr> 
-      <th> APP</th> 
-      <th> STATUS</th> 
-      <th> PATH</th> 
-      <th> STARS</th> 
+      <th>APP</th> 
+      <th>STATUS</th> 
+      <th>PATH</th> 
+      <th>STARS</th> 
     </tr> 
     <tr> 
       <td><b>Java_Beauty_Calculator</b></td>
@@ -229,12 +210,9 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
   </table> 
 </div>
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
-
-
 ---
 
-## 🐍 Slither Into My Code Kingdom😂
+## 🐍 Slither Into My Code Kingdom 😂
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake-dark.svg" />
@@ -242,21 +220,14 @@ Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
   <img alt="github-snake" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake.svg" />
 </picture>
 
-
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Mwaki+Denis+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
-
 [![Mwaki's gitartwork](gitartwork.svg)](https://github.com/mwakidenis)
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 ###### mwakidenis___________________________________________________________________________________________________© 2025 Mwaki Denis - Crafted with ❤️ 
-
-<!---
-mwakidenis/mwakidenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
