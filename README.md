@@ -113,8 +113,7 @@ alt="Continuous Emoji Animation"/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=0000ff&point=ffffff&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
-
+![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
 
 ## Git Animals 
 <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
