@@ -1,10 +1,11 @@
 <p align="center">
 <a name="readme-top"></a>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,100:008B8B&animation=fadeIn&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,100:008B8B&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
     width="100%"
   />
 </p>
+
 
 <div align=center>
   <h2 align="center">📊 Profile Stats</h2>
