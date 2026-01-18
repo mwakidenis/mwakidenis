@@ -182,6 +182,7 @@ Keep stacking and clearing lines! 🚀<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
+
 ## 🌍 Priority & Current Focus
 
 Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
