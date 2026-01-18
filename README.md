@@ -82,19 +82,23 @@
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
 
-<div align="center">
-
 ## 🖥️ My Tech Arsenal  
+
+<div align="center">
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false)<br>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
-![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
 
 </div>
+
 
 <div align="center">
 
