@@ -150,10 +150,10 @@ Keep stacking and clearing lines! 🚀<br>
 - 🏞 **Bitbucket + Jira** — agile workflow  
 - ⚓ **VS Code** — primary editor  
 - 🎨 **Passion & Determination**
+- <p align="center">
+  ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+</p>
 
-![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
-
----
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects
 
@@ -182,6 +182,9 @@ Keep stacking and clearing lines! 🚀<br>
   </table> 
 </div>
 
+ <p align="center">
+  ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
+</p>
 
 ## 🌍 Priority & Current Focus
 
