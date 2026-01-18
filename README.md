@@ -84,7 +84,7 @@
  
 <div align="center">
 
-## 🖥️ My Tech Arsenal 
+## 🖥️ My Tech Arsenal  
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
@@ -93,22 +93,12 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
 </div>
 
-<table align="center">
-  <tr>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
-    </td>
-    <td width="33%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=transparent&utc_offset=5.5" />
-    </td>
-  </tr>
-</table>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
 
 </div>
+
 
 <div align="center">
 
