@@ -98,12 +98,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
 
-</div>
+<div align="center">
 
-<p align="center">
-## Git Animals 
-  <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
-</p>
+## 🐾 Git Animals  
+<img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
+
+</div>
 
 ---
 
@@ -114,6 +114,7 @@
 <a href="https://mwakidenis.github.io/games" target="_blank">
   <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
 </a>
+
 
 **🎮 Play Tetris with Me!**  
 Watch the blocks stack!
