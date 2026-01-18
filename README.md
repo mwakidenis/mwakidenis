@@ -98,10 +98,6 @@ alt="Continuous Emoji Animation"/>
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-<a href="https://github.com/sponsors/MWAKIDENIS" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
-</a>
-
 ---
 
 <div align="center">
