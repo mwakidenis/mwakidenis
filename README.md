@@ -1,9 +1,14 @@
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 22px; font-weight: 600; margin-bottom: 2px;">
-  I'm
+<p align="center">
+<a name="readme-top"></a>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
+    width="100%"
+  />
 </p>
-<p align="center" style="font-family: 'Fira Code', monospace; font-size: 30px; font-weight: 700; margin-top: 2px;">
-  Mwaki Denis
-</p>
+
+<h4 align="center" style="margin-bottom: 2px;">I'm</h4>
+<h3 align="center" style="margin-top: 2px;">Mwaki Denis</h3>
+
 
 <p align="center" style="font-family: 'Fira Code'; font-size: 24px; color: white;">
 <img
