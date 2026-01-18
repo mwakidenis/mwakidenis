@@ -253,4 +253,4 @@ but also playful, creative, and beautifully crafted 🚀.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
-###### mwakidenis___________________________________________________________________________________________________© 2025 Mwaki Denis - Crafted with ❤️
+###### mwakidenis___________________________________________________________________________________________________© 2026 Mwaki Denis - Crafted with ❤️
