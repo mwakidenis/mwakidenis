@@ -46,6 +46,47 @@ Fullstack Web Developer
 
 ---
 
+## ✅ Profile Stats (Recovered)
+
+<br><br>
+<div align=center>
+  <table align="center">
+  <thead align="center">
+    <tr>
+      <td><b>👀 Profile Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square" alt="Profile Views"/>
+      </td>
+      <td>
+        <a href="https://github.com/mwakidenis">
+          <img src="https://img.shields.io/github/followers/mwakidenis?label=Followers&style=social" alt="GitHub Followers"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mwakidenis">
+          <img src="https://img.shields.io/github/stars/mwakidenis?label=Stars&style=social" alt="GitHub Stars"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mwakidenis/mwakidenis/blob/master/sources/awesome.md">
+          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+ <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
+ <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
+</div>
+
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🌱 Current Stack
@@ -61,7 +102,7 @@ Fullstack Web Developer
 - ⚓ **VS Code** — primary editor  
 - 🎨 **Passion & Determination**
 
----
+![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
 ## 🌍 Priority & Current Focus
 
@@ -76,9 +117,9 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ---
 
-> To express my gratitude for your support and love, I have prepared a small gift for you. Click on the icon!  
+> **🎮 Play Tetris with Me!**  
 <a href="https://mwakidenis.github.io/games" target="_blank">
-<img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play a Game with Me" width="180px">
+<img align="right" src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
 </a>
 
 <a href="https://github.com/sponsors/MWAKIDENIS" target="_blank">
@@ -108,27 +149,7 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ---
 
-## 🌐 Connect & Support    
-
-<div align=center>
-<a href="https://github.com/mwakidenis"><img width="40" height="40" alt="github" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" /></a>
-<a href="https://gitlab.com/mwakidenis"><img width="40" height="40" alt="gitlab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" /></a>
-<a href="https://bitbucket.org/mwakidenis/workspace/overview/"><img width="40" height="40" alt="bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" /></a>
-My progress can be tracked from GitRoll
-</div>
-
-<p align="center">
-  <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
-    <img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg" />
-  </a>
-  <a href="https://user-badge.committers.top/kenya/mwakidenis">
-    <img src="https://user-badge.committers.top/kenya/mwakidenis.svg" />
-  </a>
-</p>
-
----
-
-## 🎮 Tetris Fun
+## 🎮 TETRIS FUN (Official Game Section)
 
 <p align="center">
 Watch the blocks stack!<br><br>
@@ -140,7 +161,7 @@ Watch the blocks stack!<br><br>
 🟦🟨🟪🟩🟥🟪🟩<br><br>
 
 Keep stacking and line clearing!<br>
-Play real Tetris here inside my **👉[portfolio](https://bit.ly/49wfF2O)**
+🎮 **Play real Tetris here:** 👉 https://bit.ly/49wfF2O
 </p>
 
 ---
