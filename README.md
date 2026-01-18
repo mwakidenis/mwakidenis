@@ -100,8 +100,8 @@
 
 </div>
 
-## Git Animals 
 <p align="center">
+## Git Animals 
   <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
 </p>
 
