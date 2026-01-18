@@ -90,6 +90,8 @@
 
 ## My Tech Arsenal
 
+<div align="center">
+
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true)
@@ -97,6 +99,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph)
+
+</div>
 
 ## Git Animals 
 <img src="https://render.gitanimals.org/farms/mwakidenis" width="600" height="300"/>
