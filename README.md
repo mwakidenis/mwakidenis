@@ -8,7 +8,7 @@
 
 
 <div align=center>
-  <h2 align="center">📊 Profile Stats</h2>
+  <h2 align="center">📊 Profile Stats</h2> <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
   <table align="center">
   <thead align="center">
     <tr>
