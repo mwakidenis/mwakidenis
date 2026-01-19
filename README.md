@@ -66,7 +66,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-> **👨‍💻 About Me**
+> **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **Mwaki Denis**, Currently working on **👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project 👉[VigyBag eCommerce Store ✨](https://vigybag-mwakidenis.pages.dev/)**
@@ -84,7 +84,7 @@
  
 <div align="center">
 
-## 🖥️ My Tech Arsenal  
+## 🖥️ My Tech Arsenal  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
@@ -113,7 +113,7 @@
 
 <td align="center" width="50%">
 
-## 🎮 TETRIS FUN  
+## 🎮 TETRIS FUN  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <a href="https://mwakidenis.github.io/games" target="_blank">
   <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
@@ -139,14 +139,9 @@ Keep stacking and clearing lines! 🚀<br>
 
 ---
 
-## 🌱 Current Stack
+## 🌱 Current Stack  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-<img 
-  align="right" 
-  src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" 
-  width="200"
-  alt="Coding animation illustration"
-/>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 
 - ⚛️ **React.js** — modern, component-based UI  
 - ▲ **Next.js** — fullstack framework & performance  
@@ -195,7 +190,7 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
-## 🌍 Priority & Current Focus
+## 🌍 Priority & Current Focus <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
 while continuing to highlight the true *beauty in JavaScript and modern web development* through every project I create.
@@ -208,18 +203,18 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ---
 
-### ✨ Fun Zone
+### ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </div>
 
-## Random Developer Quote 💡
+## Random Developer Quote 💡 <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 > ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 📫 **Connect with Me**
+### 📫 **Connect with Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Apro5550)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwakidenis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mwakidenis/)
