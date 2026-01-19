@@ -178,7 +178,7 @@ Keep stacking and clearing lines! 🚀<br>
     <tr> 
       <td><b>MERN_STACK_PROJECTS</b></td>
       <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
-      <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator">🔗 Alipapa Mega eCommerce</a></td> 
+      <td><a href="https://ec83703a.mwakidenis-alipapa-shopping.pages.dev/">🔗 Alipapa Online Shopping</a></td> 
       <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/mwakidenis/Java_Beauty_Calculator?style=for-the-badge&logo=github"> </a> </td> 
     </tr> 
   </table> 
