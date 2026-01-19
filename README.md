@@ -69,7 +69,7 @@
 > **👨‍💻 About Me**
 
 - 🔭 I’m **Mwaki Denis**, Currently working on **👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
-- 🌐 Visit my **recently completed project 👉[Egg & Poultry Store ✨](https://poultry-farm-tawny.vercel.app/)**
+- 🌐 Visit my **recently completed project 👉[Online MEGA eCommerce Store ✨](https://ec83703a.mwakidenis-alipapa-shopping.pages.dev/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m learning **React.js, Next.js, and AI development**  
 - 👯 I’m looking to collaborate on **exciting open-source projects**
