@@ -69,9 +69,9 @@
 > **👨‍💻 About Me**
 
 - 🔭 I’m **Mwaki Denis**, Currently working on **👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
-- 🌐 Visit my **recently completed project 👉[Online MEGA eCommerce Store ✨](https://ec83703a.mwakidenis-alipapa-shopping.pages.dev/)**
+- 🌐 Visit my **recently completed project 👉[VigyBag eCommerce Store ✨](https://vigybag-mwakidenis.pages.dev/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
-- 🌱 I’m learning **React.js, Next.js, and AI development**  
+- 🌱 I’m learning **React.js, Next.js, and AI development** 
 - 👯 I’m looking to collaborate on **exciting open-source projects**
 - 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 🌐 Also visit my Drive for **[Java Devfolio](https://mwakidenis-devfolio.pages.dev/)**
@@ -178,7 +178,7 @@ Keep stacking and clearing lines! 🚀<br>
     <tr> 
       <td><b>MERN_STACK_PROJECTS</b></td>
       <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
-      <td><a href="https://ec83703a.mwakidenis-alipapa-shopping.pages.dev/">🔗 Alipapa Online Shopping</a></td> 
+      <td><a href="https://vigybag-mwakidenis.pages.dev/">🔗 VigyBag eCommerce Store</a></td> 
       <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/mwakidenis/Java_Beauty_Calculator?style=for-the-badge&logo=github"> </a> </td> 
     </tr> 
   </table> 
