@@ -103,12 +103,14 @@
 <tr>
 <td align="left" width="50%">
 
+
 ## 🐾 Git Animals   <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <img src="https://render.gitanimals.org/farms/mwakidenis" width="500"/>
 
 </td>
 
 <td align="center" width="50%">
+
 
 ## 🎮 TETRIS FUN  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
@@ -135,6 +137,9 @@ Keep stacking and clearing lines! 🚀<br>
 </div>
 
 ---
+
+
+<div align=center>
 
 ## 🌱 Current Stack  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
@@ -192,6 +197,9 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
+
+<div align=center>
+
 ## 🌍 Priority & Current Focus <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
@@ -204,6 +212,9 @@ My ultimate goal is to deliver **open-source MERN + Next.js applications** that 
 but also playful, creative, and beautifully crafted 🚀.
 
 ---
+
+
+<div align=center>
 
 ### ✨ Fun Zone <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <div align="center">
