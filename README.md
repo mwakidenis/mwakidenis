@@ -1,12 +1,14 @@
-
 <p align="center">
 <a name="readme-top"></a>
 <p align="center">
 <a name="readme-top"></a>
  <p align="center">
 <a name="readme-top"></a>
+
+ <p align="center">
+<a name="readme-top"></a>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,7CFC00,32CD32&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=4E342E"
+    src="https://capsule-render.vercel.app/api?type=waving&customColorList=00FFFF,7CFC00&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=4E342E"
     width="100%"
   />
 </p>
