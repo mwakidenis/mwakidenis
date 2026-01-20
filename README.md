@@ -166,20 +166,20 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
 
-<sub><i>
-These columns are <code>automatically</code> updated by
-<a href="https://github.com/features/actions">GitHub Actions</a>.
-</i></sub>
+<div align=left>
+<kbd align="left" valign="left">
+<u><i>*These columns are <code>automatically</code> updated by <a href="https://github.com/features/actions">GitHub actions</a>.</i></u>
+</kbd><br><br>
+</div>
 
 > [!IMPORTANT]
-> Dreaming up ideas and making them come true is where my passion lies.  
-> See my project list [here](https://github.com/mwakidenis?tab=repositories).  
-> **Java Beauty Suite** contains more than these 5 projects.  
-> All projects under Java Beauty Suite are an **Unregistered Trademark of Mwaki Denis**.  
-> You are free to fork and collaborate with me.
+> Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories). <br>
+> Java Beauty Suite contains more than these 5 projects. <br>
+> All the projects coming under Java Beauty Suite are Unregistered Trademark of **Mwaki Denis** <br>
+> But you are free to fork and Collaborate with me. <br>
+ You are free to fork and collaborate with me.
 
 
   **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://mwakidenis.github.io&style=for-the-badge)](https://mwakidenis.github.io)**
