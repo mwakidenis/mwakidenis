@@ -25,12 +25,6 @@
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
  
-<div align="center">
-
-## 🖥️ My Tech Arsenal  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-
-
 <div align=center>
   <h2 align="center">📊 Profile Stats <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
   <table align="center">
@@ -80,6 +74,9 @@
 </div>
 
 ---
+<div align="center">
+
+## 🖥️ My Tech Arsenal  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <div align=center>
 
