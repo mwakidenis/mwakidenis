@@ -3,12 +3,13 @@
 <a name="readme-top"></a>
 <p align="center">
 <a name="readme-top"></a>
+ <p align="center">
+<a name="readme-top"></a>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,50:7CFC00,100:32CD32&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=4E342E"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,7CFC00,32CD32&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=4E342E"
     width="100%"
   />
 </p>
-
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
