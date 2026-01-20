@@ -240,16 +240,6 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ---
 
-## Welcome to the Interactive Guestbook! 🚀
-
-[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/mwakidenis/mwakidenis/discussions/1)
-
----
-
-### ⭐ **Show some love by starring my repos!** 😊  
-
----
-
 ## 🐍 Slither Into My Code Kingdom 😂
 
 <picture>
