@@ -1,11 +1,10 @@
 <p align="center">
 <a name="readme-top"></a>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,100:008B8B&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=00FFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,50:2ED573,100:006D5B&text=Hello+Every+GitHub+Souls!!&height=100&section=header&fontColor=4E342E"
     width="100%"
   />
 </p>
-
 
 <div align=center>
   <h2 align="center">📊 Profile Stats <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
