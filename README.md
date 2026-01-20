@@ -1,3 +1,4 @@
+
 <p align="center">
 <a name="readme-top"></a>
   <img 
@@ -5,6 +6,41 @@
     width="100%"
   />
 </p>
+
+<div align=center>
+  <h2 align="center">📊 Profile Stats <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
+  <table align="center">
+  <thead align="center">
+    <tr>
+      <td><b>👀 Profile Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square" alt="Profile Views"/>
+      </td>
+      <td>
+        <a href="https://github.com/mwakidenis">
+          <img src="https://img.shields.io/github/followers/mwakidenis?label=Followers&style=social" alt="GitHub Followers"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mwakidenis">
+          <img src="https://img.shields.io/github/stars/mwakidenis?label=Stars&style=social" alt="GitHub Stars"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mwakidenis/mwakidenis/blob/master/sources/awesome.md">
+          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
@@ -50,41 +86,6 @@
 
 ## 🖥️ My Tech Arsenal  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-<div align=center>
-  <h2 align="center">📊 Profile Stats <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h2> 
-  <table align="center">
-  <thead align="center">
-    <tr>
-      <td><b>👀 Profile Views</b></td>
-      <td><b>👤 Followers</b></td>
-      <td><b>🌟 Stars</b></td>
-      <td><b>✅ Awesome</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square" alt="Profile Views"/>
-      </td>
-      <td>
-        <a href="https://github.com/mwakidenis">
-          <img src="https://img.shields.io/github/followers/mwakidenis?label=Followers&style=social" alt="GitHub Followers"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mwakidenis">
-          <img src="https://img.shields.io/github/stars/mwakidenis?label=Stars&style=social" alt="GitHub Stars"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mwakidenis/mwakidenis/blob/master/sources/awesome.md">
-          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
