@@ -231,6 +231,8 @@ but also playful, creative, and beautifully crafted 🚀.
 
 ---
 
+<div align=center>
+
 ### 📫 **Connect with Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Apro5550)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwakidenis)
