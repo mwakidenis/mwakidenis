@@ -159,7 +159,7 @@ Keep stacking and clearing lines! 🚀<br>
 - 🛠 **GitLab (CI/CD)**  
 - 🚀 **Git & GitHub Desktop** — version control  
 - 🏞 **Bitbucket + Jira** — agile workflow  
-- ⚓ **VS Code** — primary editor  
+- ⚓ **VS Code + Notepad** — primary editors  
 - 🎨 **Passion & Determination**
 
 <p align="center">
@@ -176,7 +176,7 @@ Keep stacking and clearing lines! 🚀<br>
 
 > [!IMPORTANT]  
 > Dreaming up ideas and making them come true is where my passion lies.  
-> Java Beauty Suite contains more than these 5 projects.  
+> MERN Stack Beauty Suite contains more than these 5 projects.  
 > You are free to fork and collaborate with me.
 
 <div align="center"> 
