@@ -166,6 +166,7 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
+>/div>
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
@@ -179,7 +180,7 @@ Keep stacking and clearing lines! 🚀<br>
 > [!IMPORTANT]
 > Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories).  
 > Java Beauty Suite contains more than these 5 projects.  
-> All the projects coming under Java Beauty Suite are Unregistered Trademark of **Mwaki Denis**  
+> All the projects coming under Java Beauty Suite are Unregistered Trademark of **mwakidenis**  
 > But you are free to fork and Collaborate with me.  
 
 ---
