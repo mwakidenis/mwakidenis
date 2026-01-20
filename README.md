@@ -7,10 +7,11 @@
 
  <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&customColorList=00FFFF,008B8B&text=Hello%20Every%20GitHub%20Souls!!&fontColor=ffffff&fontSize=36"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&customColorList=1E90FF,20B2AA&text=Hello%20Every%20GitHub%20Souls!!&fontColor=ffffff&fontSize=36"
     width="100%"
   />
 </div>
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
