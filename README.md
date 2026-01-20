@@ -166,21 +166,22 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My Projects
- <div align=left>
-<kbd align="left" valign="left">
-<u><i>*These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u>
-</kbd><br><br>
-</div>
+
+<sub>
+<i>
+These columns are <code>automatically</code> updated by
+<a href="https://github.com/features/actions">GitHub Actions</a>.
+</i>
+</sub>
+
+<br>
 
 > [!IMPORTANT]  
 > Dreaming up ideas and making them come true is where my passion lies.  
-> MERN Stack Beauty Suite contains more than these 5 projects.  
+> **MERN Stack Beauty Suite** contains more than these 5 projects.  
 > You are free to fork and collaborate with me.
 
-<div align="center"> 
-  
   **[![Website](https://img.shields.io/website?color=green&up_message=online&url=https://mwakidenis.github.io&style=for-the-badge)](https://mwakidenis.github.io)**
   
   <table> 
