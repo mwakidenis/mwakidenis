@@ -1,7 +1,3 @@
-<p align="center">
-<a name="readme-top"></a>
-<p align="center">
-<a name="readme-top"></a>
  <p align="center">
 <a name="readme-top"></a>
 
@@ -65,6 +61,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <p align="center">
   <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
@@ -75,9 +72,8 @@
   </a>
 </p>
 
- <img src="https://img.shields.io/badge/Organization-RecordHive-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
- <img src="https://img.shields.io/badge/Drive--for--Java-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-Java"/>
-</div>
+ <img src="https://img.shields.io/badge/Organization-iamdenis-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
+ <img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-MERN"/>
 
 ---
 <div align="center">
@@ -97,6 +93,9 @@
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
+
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
 
@@ -166,7 +165,6 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </p>
 
->/div>
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
