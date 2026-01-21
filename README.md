@@ -148,7 +148,12 @@ Keep stacking and clearing lines! 🚀<br>
 
 ## 🌱 Current Stack  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+  width="280"
+  align="right"
+/><br>
+
 
 - ⚛️ **React.js** — modern, component-based UI  
 - ▲ **Next.js** — fullstack framework & performance  
@@ -168,12 +173,9 @@ Keep stacking and clearing lines! 🚀<br>
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
-<img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  width="280"
-  align="right"
-/><br>
 
+
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 <div align=left>
 <kbd align="left" valign="left">
 <u><i>*These columns are <code>automatically</code> updated by <a href="https://github.com/features/actions">GitHub actions</a>.</i></u>
