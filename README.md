@@ -34,11 +34,6 @@
     src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
   </h2>
 
-  <div align="center">
-
-<h2>📊 Profile Stats 
-<img height="32" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-</h2>
 
 <table align="center">
 <tr>
