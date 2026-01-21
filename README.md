@@ -34,54 +34,36 @@
     src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
   </h2>
 
-  <table align="center">
-    <thead>
-      <tr>
-        <td><b>👀 Profile Views</b></td>
-        <td><b>👤 Followers</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>✅ Awesome</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square"/>
-        </td>
-        <td>
-          <a href="https://github.com/mwakidenis">
-            <img src="https://img.shields.io/github/followers/mwakidenis?label=Followers&style=social"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mwakidenis">
-            <img src="https://img.shields.io/github/stars/mwakidenis?label=Stars&style=social"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mwakidenis/mwakidenis/blob/master/sources/awesome.md">
-            <img src="https://awesome.re/badge.svg"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div align="center">
 
-  <br/>
+<h2>📊 Profile Stats 
+<img height="32" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</h2>
 
-  <!-- Committer badges -->
-  <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
-    <img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg"/>
-  </a>
-  <a href="https://user-badge.committers.top/kenya/mwakidenis">
-    <img src="https://user-badge.committers.top/kenya/mwakidenis.svg"/>
-  </a>
+<table align="center">
+<tr>
+<td><b>👀 Views</b></td>
+<td><b>👤 Followers</b></td>
+<td><b>🌟 Stars</b></td>
+<td><b>✅ Awesome</b></td>
+</tr>
+<tr>
+<td><img src="https://komarev.com/ghpvc/?username=mwakidenis&style=flat-square"/></td>
+<td><img src="https://img.shields.io/github/followers/mwakidenis?style=social"/></td>
+<td><img src="https://img.shields.io/github/stars/mwakidenis?style=social"/></td>
+<td><img src="https://awesome.re/badge.svg"/></td>
+</tr>
+</table>
 
-  <br/><br/>
+<a href="https://user-badge.committers.top/kenya_public/mwakidenis">
+<img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg" height="24"/>
+</a>
+<a href="https://user-badge.committers.top/kenya/mwakidenis">
+<img src="https://user-badge.committers.top/kenya/mwakidenis.svg" height="24"/>
+</a>
 
-  <!-- Organization badges -->
-  <img src="https://img.shields.io/badge/Organization-iamdenis-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Organization-iamdenis-6a5acd?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source-00ccff?style=for-the-badge"/>
 
 </div>
 
