@@ -3,7 +3,7 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20Every%20GitHub%20Souls!!&fontColor=4E342E&fontSize=36"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!!&fontColor=4E342E&fontSize=36"
     width="100%"
   />
 </div>
