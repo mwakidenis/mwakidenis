@@ -61,7 +61,7 @@
 <a href="https://user-badge.committers.top/kenya/mwakidenis">
 <img src="https://user-badge.committers.top/kenya/mwakidenis.svg" height="24"/>
 </a>
-
+<br>
 <img src="https://img.shields.io/badge/Organization-iamdenis-6a5acd?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source-00ccff?style=for-the-badge"/>
 
