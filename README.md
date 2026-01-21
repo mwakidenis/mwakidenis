@@ -71,9 +71,10 @@
     <img src="https://user-badge.committers.top/kenya/mwakidenis.svg" />
   </a>
 </p>
-
+<p>
  <img src="https://img.shields.io/badge/Organization-iamdenis-6a5acd?style=for-the-badge&logo=apachespark&logoColor=white" alt="RecordHive"/>
  <img src="https://img.shields.io/badge/Drive--for--MERN-Open%20Source%20Community-00ccff?style=for-the-badge&logo=github&logoColor=white" alt="Drive-for-MERN"/>
+ </p>
 
 ---
 <div align="center">
