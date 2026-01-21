@@ -175,7 +175,7 @@ Keep stacking and clearing lines! 🚀<br>
 </kbd><br><br>
 </div>
 
-> >![IMPORTANT]
+> > 📩 **IMPORTANT MESSAGE**
 > Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories).  
 > MERN Beauty Suite contains more than these 5 projects.  
 > All the projects coming under MERN Beauty Suite are Unregistered Trademark of **mwakidenis**  
