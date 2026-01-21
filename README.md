@@ -175,10 +175,10 @@ Keep stacking and clearing lines! 🚀<br>
 </kbd><br><br>
 </div>
 
-> [!IMPORTANT]
+> > 🚨 **IMPORTANT**
 > Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories).  
-> Java Beauty Suite contains more than these 5 projects.  
-> All the projects coming under Java Beauty Suite are Unregistered Trademark of **mwakidenis**  
+> MERN Beauty Suite contains more than these 5 projects.  
+> All the projects coming under MERN Beauty Suite are Unregistered Trademark of **mwakidenis**  
 > But you are free to fork and Collaborate with me.  
 
 ---
