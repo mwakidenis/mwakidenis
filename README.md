@@ -76,13 +76,6 @@
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
-
 <p align="center">
 <table align="center">
   <tr>
@@ -101,6 +94,14 @@
   </tr>
 </table>
 </p>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 
