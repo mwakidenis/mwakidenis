@@ -141,7 +141,7 @@
 
 </td>
 
-<td align="center" width="50%">
+<td align="right" width="50%">
 
 
 ## 🎮 TETRIS FUN  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
