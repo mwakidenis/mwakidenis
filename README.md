@@ -127,48 +127,59 @@
   </table>
 </div>
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
+      <h3>
+        🐾 Git Animals
+        <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+      </h3>
 
+      <img
+        src="https://render.gitanimals.org/farms/mwakidenis"
+        width="480"
+      />
 
-<table>
-<tr>
-<td align="left" width="50%">
+    </td>
 
+    <td align="center" width="50%" valign="top">
 
-## 🐾 Git Animals   <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<img src="https://render.gitanimals.org/farms/mwakidenis" width="500"/>
+      <h3>
+        🎮 TETRIS FUN
+        <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+      </h3>
 
-</td>
+      <div style="width:480px; margin:auto;">
 
-<td align="right" width="50%">
+        <a href="https://mwakidenis.github.io/games" target="_blank">
+          <img
+            src="https://charmve.github.io/sponsor_files/playagame.png"
+            width="220"
+          />
+        </a>
 
+        <p><b>🎮 Play Tetris with Me!</b></p>
 
-## 🎮 TETRIS FUN  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+        <pre>
+🟦🟥🟩🟨🟪🟦🟨
+🟥🟩🟪🟦🟩🟨🟥
+🟩🟨🟥🟦🟪🟩🟦
+🟪🟦🟨🟥🟩🟦🟨
+🟦🟨🟪🟩🟥🟪🟩
+        </pre>
 
-<a href="https://mwakidenis.github.io/games" target="_blank">
-  <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
-</a>
+        <p>
+          🎮 <b>Play here:</b>
+          <a href="https://bit.ly/49wfF2O">https://bit.ly/49wfF2O</a>
+        </p>
 
-**🎮 Play Tetris with Me!**  
-Watch the blocks stack!
+      </div>
 
-🟦🟥🟩🟨🟪🟦🟨<br>
-🟥🟩🟪🟦🟩🟨🟥<br>
-🟩🟨🟥🟦🟪🟩🟦<br>
-🟪🟦🟨🟥🟩🟦🟨<br>
-🟦🟨🟪🟩🟥🟪🟩<br><br>
-
-Keep stacking and clearing lines! 🚀<br>
-🎮 **Play the real game here:** 👉 https://bit.ly/49wfF2O
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-</div>
-
----
 
 
 <div align=center>
