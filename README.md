@@ -75,10 +75,24 @@
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:16px; width:100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+
+    <td align="center">
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
 
