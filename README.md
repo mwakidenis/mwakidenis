@@ -75,7 +75,8 @@
 
 ![](https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<table width="100%" align="center">
+<p align="center">
+<table align="center">
   <tr>
     <td align="center">
       <img
@@ -83,7 +84,6 @@
         alt="GitHub Stats"
       />
     </td>
-
     <td align="center">
       <img
         src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false"
@@ -92,6 +92,8 @@
     </td>
   </tr>
 </table>
+</p>
+>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwakidenis&theme=radical)
