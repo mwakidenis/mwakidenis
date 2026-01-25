@@ -80,7 +80,7 @@
 <div align="center">
 
   <h2>
-    🖥️ Stack in Action
+    🖥️ Github Activity
     <img
       height="40"
       alt="Mwaki Denis"
