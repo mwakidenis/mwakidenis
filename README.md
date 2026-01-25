@@ -80,7 +80,7 @@
 <div align="center">
 
   <h2>
-    🖥️ My Tech Arsenal
+    🖥️ My Tech Stack
     <img
       height="40"
       alt="Mwaki Denis"
