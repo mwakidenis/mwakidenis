@@ -80,7 +80,7 @@
 <div align="center">
 
   <h2>
-    🖥️ My Tech Stack
+    🖥️ Stack in Action
     <img
       height="40"
       alt="Mwaki Denis"
