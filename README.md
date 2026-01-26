@@ -16,7 +16,7 @@
 - 🔭 I’m **Mwaki Denis**, Currently working on **👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project 👉[Eco-Friendly Store ✨](https://vigybag-mwakidenis.pages.dev/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
-- 🌱 I’m learning **React.js, Next.js, and AI development** 
+- 🌱 I’m currently specializing in **React.js, Next.js, and AI development** 
 - 👯 I’m looking to collaborate on **exciting open-source projects**
 - 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 🌐 Also visit my Drive for **[Java Devfolio](https://mwakidenis-devfolio.pages.dev/)**
