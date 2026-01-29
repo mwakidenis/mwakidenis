@@ -23,7 +23,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com)
-- 🚫 FREE ADVISORY NOT PROVIDED. **I DO NOT OFFER FREE CONSULTATIONS REGARDING ANYTHING UNDER ANY CIRCUMSTANCES; ALL ADVISORY & SUPPORT SERVICES REQUIRE PAID ENGAGEMENT.**
+- ![WARNING](https://img.shields.io/badge/🚫-FREE_ADVISORY_NOT_PROVIDED-red?style=for-the-badge&logo=warning)
+
 -  👯 I’m looking to collaborate on **exciting open-source projects**
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
