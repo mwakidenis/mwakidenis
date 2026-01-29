@@ -182,8 +182,6 @@ Keep stacking and clearing lines! 🚀<br>
 
 ## 🌱 Current Stack  <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-<img 
-
 <div align="justify">
   <ul>
     <li>
