@@ -326,6 +326,8 @@ Keep stacking and clearing lines! 🚀<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/KiloCode-FF4500?style=for-the-badge&logoColor=white" alt="KiloCode"/>
+  <img src="https://img.shields.io/badge/Blackbox%20AI-000000?style=for-the-badge&logoColor=white" alt="Blackbox AI"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
