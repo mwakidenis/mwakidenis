@@ -17,14 +17,14 @@
 - 🌐 Visit my **recently completed project 👉[Eco-Friendly Store ✨](https://vigybag-mwakidenis.pages.dev/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **PHP, Javascript, html5 and AI development** 
-- 👯 I’m looking to collaborate on **exciting open-source projects**
 - 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 🌐 Also visit my Drive for **[Java Devfolio](https://mwakidenis-devfolio.pages.dev/)**
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com)
-- 🚫 FREE ADVISORY NOT PROVIDED. **I DO NOT OFFER FREE CONSULTATIONS REGARDING ANYTHING UNDER ANY CIRCUMSTANCES; ALL ADVISORY and SUPPORT SERVICES REQUIRE PAID ENGAGEMENT.** 
+- 🚫 FREE ADVISORY NOT PROVIDED. **I DO NOT OFFER FREE CONSULTATIONS REGARDING ANYTHING UNDER ANY CIRCUMSTANCES; ALL ADVISORY and SUPPORT SERVICES REQUIRE PAID ENGAGEMENT.**
+-  👯 I’m looking to collaborate on **exciting open-source projects**
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
  
