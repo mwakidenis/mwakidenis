@@ -16,7 +16,7 @@
 - 🔭 I’m **Mwaki Denis**, Currently working on **👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project 👉[Eco-Friendly Store ✨](https://vigybag-mwakidenis.pages.dev/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
-- 🌱 I’m currently specializing in **HOTSPOT & PPPOE Billing Sytems, Fullstack JS, html5, PHP, PostgreS and AI development** 
+- 🌱 I’m currently specializing in **Fullstack JS, html5, PHP and AI development** 
 - 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 🌐 Also visit my Drive for **[Java Devfolio](https://mwakidenis-devfolio.pages.dev/)**
 - 📫 How to reach me:  
