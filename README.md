@@ -13,7 +13,7 @@
 
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- 🔭 I’m **Mwaki Denis**, Founder of **[HornBill](https://github.com/mwakidenis/HornBill)**, a functional ISP-grade billing system based on the NuxBill framework.
+- 🔭 I’m **Mwaki Denis**, Founder of **[HornBill](https://github.com/mwakidenis/HornBill)**, an ISP Mikrotik billing system.
 - 🔭Currently working on **👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**  
 - 🌐 Visit my **recently completed project 👉[Eco-Friendly Store ✨](https://vigybag-mwakidenis.pages.dev/)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
