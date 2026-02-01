@@ -367,6 +367,7 @@ Keep stacking and clearing lines! 🚀<br>
       <td><b>MY PROJECTS</b></td>
       <td><img src="https://img.shields.io/badge/Active-brightgreen?style=flat-square"></td> 
       <td><a href="https://vigybag-mwakidenis.pages.dev/">🔗 VigyBag eCommerce Store</a></td>  
+       <td><a href="https://github.com/mwakidenis/Java_Beauty_Calculator"> <img src="https://img.shields.io/github/stars/mwakidenis/Java_Beauty_Calculator?style=for-the-badge&logo=github"> </a> </td> 
     </tr> 
   </table> 
 </div>
