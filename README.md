@@ -23,7 +23,7 @@
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com) <BR>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254798750585) <BR>
   ![WARNING](https://img.shields.io/badge/🚫-FREE_ADVISORY_NOT_PROVIDED-red?style=for-the-badge&logo=warning)<br>
   **⚠️I DO NOT OFFER FREE CONSULTATIONS. ALL MY ADVISORY & SUPPORT SERVICES ARE AVAILABLE STARTING FROM  KSH 500 OR $5.**
 -  👯 I’m looking to collaborate on **exciting open-source projects**
