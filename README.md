@@ -19,7 +19,7 @@
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **Fullstack JS, html5, PHP and AI development** 
 - 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
-- 🎵 Jam out with my music streaming app **👉[Sautify ](https://b5e160f5.sautify-is-gonna-hit-5m.pages.dev/))** 🎵
+- 🎵 Jam out with my music streaming app **👉[Sautify ](https://b5e160f5.sautify-is-gonna-hit-5m.pages.dev/)** 🎵
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a)  
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)  
