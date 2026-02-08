@@ -14,7 +14,7 @@
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **Mwaki Denis**
-- 🔭Currently working on a **[e-commerce project](https://github.com/mwakidenis/VB-Mall)**  
+- 🔭Currently working on **👉[e-commerce project](https://github.com/mwakidenis/VB-Mall)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **Fullstack JS, html5, PHP and AI development** 
