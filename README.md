@@ -25,7 +25,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254798750585) <BR>
   ![WARNING](https://img.shields.io/badge/🚫-FREE_ADVISORY_NOT_PROVIDED-red?style=for-the-badge&logo=warning)<br>
-  **⚠️ Thank you for your interest. I do not provide free consultations. Advisory and support services are offered starting KSH 500 ($5).**
+  **⚠️ Thank you for your interest. I do not provide free consultations. Advisory and support services are offered starting $5.**
 -  👯 I’m looking to collaborate on **exciting open-source projects**
 - ⚡ Fun fact: I love **tech & coding challenges!**  
 - 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
