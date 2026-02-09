@@ -135,7 +135,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mwakidenis&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img
+    src="https://ghchart.rshah.org/mwakidenis"
+    alt="GitHub Contribution Chart"
+  />
 </div>
 
 <div align="center">
