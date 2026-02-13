@@ -17,6 +17,7 @@
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **Mwaki Denis**
+- 🏬Welcome to my **👉[fiverr shop](http://www.fiverr.com/s/EgABEX0)**
 - 🔭Currently working on **👉[e-commerce project](https://github.com/mwakidenis/VB-Mall)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
