@@ -22,7 +22,7 @@
 
 - 🔭 I’m **Mwaki Denis**
 - 🏬Welcome to my **👉[fiverr shop](http://www.fiverr.com/s/EgABEX0)**
-- 🔭Currently working on **👉[e-commerce project](https://github.com/mwakidenis/VB-Mall)**  
+- 🔭Currently working on **👉[TendaN301-Billing-System](https://github.com/mwakidenis/TendaN301-Billing-System)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **Fullstack JS, html5, PHP and AI development** 
