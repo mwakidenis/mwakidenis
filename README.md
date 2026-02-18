@@ -37,9 +37,9 @@
 ![WARNING](https://img.shields.io/badge/🚫_NO_FREE_ADVISORY-red?style=flat)<br>
 - Thank you for your interest. **I do not provide free consultations.** Advisory and support services are offered starting $5.
 - 👯 I’m looking to collaborate on **exciting open-source projects**
-- ⚡ Fun fact: I love **tech & coding challenges!**  
-- 🎥 Recently Started a YouTube Tech Channel 🚀 [**Subscribe 🙌**](https://youtube.com/@denicemwaki?si=2MExJSUMtgedH)  
- 
+- ⚡ Fun fact: I love **tech & coding challenges!**
+- 🎓 4th Year Capstone Project: Developing an advanced scalable system integrating modern web technologies and AI 🚀
+  
 <div align="center">
 
   <h2>
