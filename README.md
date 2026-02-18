@@ -380,10 +380,7 @@ Keep stacking and clearing lines! 🚀<br>
 
 ## 🌍 Priority & Current Focus <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-Currently, my top priority is expanding the **Fullstack Beauty Suite** ✨  
-while continuing to highlight the true *beauty in JavaScript and modern web development* through every project I create.
-
-I am focused on mastering **Next.js (App Router, Server Components, Performance)**,  
+I am focused on deepth-mastering **Next.js (App Router, Server Components, Performance)**,  
 improving my **GitHub workflows**, and refining **clean coding practices** 🌱.
 
 My ultimate goal is to deliver **open-source MERN + Next.js applications** that are not only useful and professional  
