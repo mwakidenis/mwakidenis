@@ -21,7 +21,8 @@
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **Mwaki Denis**
-- 🏬Welcome to my SaaS **👉[multi-tenant mikrotik isp billing system](https://github.com/mwakidenis/HornBill)**
+- 🏬Welcome to my ![SaaS](https://img.shields.io/badge/SaaS-Production-blue?style=for-the-badge)
+ **👉[multi-tenant mikrotik isp billing system](https://github.com/mwakidenis/HornBill)**
 - 🔭Currently working on **👉[TendaN301-Billing-System](https://github.com/mwakidenis/TendaN301-Billing-System)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
@@ -349,24 +350,6 @@ Keep stacking and clearing lines! 🚀<br>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [My Projects](https://github.com/mwakidenis/mwakidenis.github.io)
-
-
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
-<div align=left>
-<kbd align="left" valign="left">
-<u><i>*These columns are <code>automatically</code> updated by <a href="https://github.com/features/actions">GitHub actions</a>.</i></u>
-</kbd><br><br>
-</div>
-
-> > 📩 **IMPORTANT:**
-> Dreaming up ideas and making them come true is where my passion lies. See my project list [here](https://github.com/mwakidenis?tab=repositories).  
-> MERN Beauty Suite contains more than these 5 projects.  
-> All the projects coming under MERN Beauty Suite are Unregistered Trademark of **mwakidenis**  
-> But you are free to fork and Collaborate with me.  
 
 ---
 
