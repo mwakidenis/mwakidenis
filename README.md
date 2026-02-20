@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="100%" 
+    style="max-width:100%; height:auto;"
+  />
+</div>
+
  <p align="center">
 <a name="readme-top"></a>
 
@@ -6,14 +14,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!!&fontColor=4E342E&fontSize=36"
     width="100%" 
   />
- 
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
-    width="100%" 
-    style="max-width:100%; height:auto;"
-  />
-</div>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
