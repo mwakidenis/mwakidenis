@@ -21,8 +21,7 @@
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **Mwaki Denis**
-- 🏬Welcome to my **[website](https://mitrokit-ventures-llc.pages.dev/)**
- **👉[multi-tenant mikrotik isp billing system](https://github.com/mwakidenis/HornBill)**
+- 🏬Welcome to my **👉[website](https://mitrokit-ventures-llc.pages.dev/)**
 - 🔭Currently working on **👉[TendaN301-Billing-System](https://github.com/mwakidenis/TendaN301-Billing-System)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
