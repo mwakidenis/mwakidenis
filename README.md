@@ -114,13 +114,10 @@
   </div>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
         <img
           src="https://github-readme-stats.vercel.app/api?username=mwakidenis&show_icons=true&count_private=true&theme=radical&hide_border=true"
         />
-      </td>
+</div>
       <td align="center">
         <img
           src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false"
