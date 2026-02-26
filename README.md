@@ -401,14 +401,14 @@ but also playful, creative, and beautifully crafted 🚀.
 </div>
 
 ---
+# 🐍 Slither Into My Code Kingdom 😂
 
-## My Code Kingdom 😂
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake.svg" />
+</picture>
 
-<!-- <p align="center">
-  <a href="https://github.com/mwakidenis/mwakidenis">
-    <img src="https://github.com/mwakidenis/mwakidenis/blob/output/github-contribution-grid-snake.svg" alt="Snake">
-  </a>
-</p>-->
 ---
 
 <p align="center">
