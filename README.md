@@ -6,16 +6,6 @@
   />
 </div>
 
- <p align="center">
-<a name="readme-top"></a>
-
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hello%20GitHub%20Community!!&fontColor=4E342E&fontSize=36"
-    width="100%" 
-  />
-
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
