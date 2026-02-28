@@ -97,15 +97,40 @@
     </a>
   </div>
 
+<div align="center">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mwakidenis&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
+
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mwakidenis&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mwakidenis&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
+</p>
+
+</div>
+
   <div align="center">
     <img
       src="https://github-trophies.vercel.app/?username=mwakidenis&theme=discord&no-frame=true&no-bg=true&margin-w=4"
     />
   </div>
-
-
-
-
 
 <div align="center">
   <img
