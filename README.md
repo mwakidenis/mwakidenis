@@ -12,7 +12,7 @@
 
 - 🔭 I’m **[mwakidenis](https://mitrokit-ventures-me.vercel.app/)**
 - 🏬Welcome to my **👉[website](https://mitrokit-ventures-me.vercel.app/)**
-- 🔭Currently working on **👉[gmart supermarket](https://gmart-supermarket.vercel.app/)**  
+- 🔭Currently working on **👉[gmart supermarket](https://gmart-mu.vercel.app/)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **Fullstack JS, html5, PHP and AI development** 
