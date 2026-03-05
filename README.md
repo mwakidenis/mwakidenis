@@ -15,18 +15,17 @@
 - 🔭Currently working on **👉[gmart supermarket](https://gmart-mu.vercel.app/)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
-- 🌱 I’m currently specializing in **Fullstack JS, html5, PHP and AI development** 
+- 🌱 I’m currently specializing in **Fullstack JS, Next.js, React and Prompt AI** 
 - 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-it-54199939a)<br>
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)<br>
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com) <br>
-   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254798750585)<br>
 ![WARNING](https://img.shields.io/badge/🚫_NO_FREE_ADVISORY-red?style=flat)<br>
 - Thank you for your interest. **I do not provide free consultations.** Advisory and support services are offered starting $5.
 - 👯 I’m looking to collaborate on **exciting open-source projects**
 - ⚡ Fun fact: I love **tech & coding challenges!**
-- 🎓 4th Year Capstone Project: Developing an advanced scalable system integrating modern web technologies and AI 🚀
+- 🎓Capstone Project: Developing an advanced scalable system integrating modern web technologies and AI 🚀
   
 <div align="center">
 
