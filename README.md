@@ -11,7 +11,7 @@
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **[mwakidenis](https://mitrokit-ventures-me.vercel.app/)**
-- 🏬Welcome to my **[readme]**
+- 🏬Welcome to my **readme**
 - 🔭Currently working on **👉[kibanda POS](https://kibandapoa.vercel.app/)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
