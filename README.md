@@ -102,7 +102,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mwakidenis&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=mwakidenis&theme=radical&hide_border=false" />
+    <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?" />
 
 <table>
 <tr>
