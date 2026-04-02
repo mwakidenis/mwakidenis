@@ -216,6 +216,7 @@ Keep stacking and clearing lines! 🚀<br>
 <div align="center">
 <a href="https://github.com/sponsors/mwakidenis" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
+ <iframe src="https://github.com/sponsors/mwakidenis/card" title="Sponsor mwakidenis" height="225" width="600" style="border: 0;"></iframe> 
 </a>
 </div>
 
