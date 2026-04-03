@@ -238,4 +238,19 @@ Keep stacking and clearing lines! 🚀<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
-###### Crafted with ❤️ ___________________________________________© 2026 mwakidenis 
+## Projects Admin ⚡
+
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://res.cloudinary.com/dqv8dlj2s/image/upload/v1772276752/IMG_20251220_111730_cqlgfo.jpg" width="750" height="250" />
+      </a>
+      <h4>mwakidenis</h4>
+    </td>
+  </tr>
+</table>
+
+<div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
+
+I extend my heartfelt gratitude for any invaluable contribution to my projects! Your efforts play a vital role in elevating the repo to greater heights.
+
