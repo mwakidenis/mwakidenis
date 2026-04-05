@@ -236,8 +236,6 @@ Keep stacking and clearing lines! 🚀<br>
 
 [![Mwaki's gitartwork](gitartwork.svg)](https://github.com/mwakidenis)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
-
 ## Projects Admin ⚡
 
 <table align="center">
