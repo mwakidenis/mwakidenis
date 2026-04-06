@@ -25,8 +25,10 @@
 - Thank you for your interest. **I do not provide free consultations.** Advisory and support services are offered starting $5.
 - 👯 I’m looking to collaborate on **exciting open-source projects**
 - My current open source activity is highly focused on the **Javascript** ecosystem
+- Being part of the open source community has been both rewarding and challenging.
+- I take great pride in helping to improve the ecosystem, bug fixes, responding to issues, and developing new features.
+- It is also important to me to ensure accuracy, scalability, and security of the code that I am involved with. 
 - ⚡ Fun fact: I love **tech & coding challenges!**
-- 🎓Capstone Project: Developing an advanced scalable system integrating modern web technologies and AI 🚀
   
 <div align="center">
 
