@@ -24,6 +24,7 @@
 ![WARNING](https://img.shields.io/badge/🚫_NO_FREE_ADVISORY-red?style=flat)<br>
 - Thank you for your interest. **I do not provide free consultations.** Advisory and support services are offered starting $5.
 - 👯 I’m looking to collaborate on **exciting open-source projects**
+- My current open source activity is highly focused on the **Javascript** ecosystem
 - ⚡ Fun fact: I love **tech & coding challenges!**
 - 🎓Capstone Project: Developing an advanced scalable system integrating modern web technologies and AI 🚀
   
