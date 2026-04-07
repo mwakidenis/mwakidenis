@@ -215,12 +215,6 @@ Keep stacking and clearing lines! 🚀<br>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@denicemwaki?si=rewYQiy379ztYPVN)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaria-denis-919351398?/)
 
-<div align="center">
-<a href="https://github.com/sponsors/mwakidenis" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github&style=for-the-badge" alt="Sponsor mwakidenis on GitHub">
- 
-</div>
-
 ---
 # 🐍 Slither Into My Code Kingdom 😂
 
