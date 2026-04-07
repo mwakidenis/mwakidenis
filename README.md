@@ -253,4 +253,16 @@ Keep stacking and clearing lines! 🚀<br>
 <div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
 
 I extend my heartfelt gratitude for any invaluable contribution to my projects! Your efforts play a significant role in improving and elevating these repositories to greater heights.
+### ☕ Fuel my next project 
 
+<p align="center">
+  <a href="https://paystack.shop/pay/q0tx4orxon" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20via%20Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/mwakidenis" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+</p>
