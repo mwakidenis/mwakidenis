@@ -261,7 +261,7 @@ I extend my heartfelt gratitude for any invaluable contribution to my projects! 
 <p align="center">
   <a href="https://paystack.shop/pay/q0tx4orxon" target="_blank">
     <img src="https://img.shields.io/badge/Support%20via%20Paystack-00C3F7?style=for-the-badge&logo=paystack&logoColor=white" />
-  
+  </a>
   <a href="https://github.com/sponsors/mwakidenis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
