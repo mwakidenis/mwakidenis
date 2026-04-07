@@ -253,6 +253,9 @@ Keep stacking and clearing lines! 🚀<br>
 <div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
 
 I extend my heartfelt gratitude for any invaluable contribution to my projects! Your efforts play a significant role in improving and elevating these repositories to greater heights.
+
+--- 
+
 ### ☕ Fuel my next project 
 
 <p align="center">
