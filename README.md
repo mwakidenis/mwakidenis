@@ -12,7 +12,7 @@
 
 - 🔭 I’m **[mwakidenis](https://mitrokit-ventures-me.vercel.app/)**
 - 🏬Welcome to my **readme**
-- 🔭Currently working on **👉[Easy Code Lab](https://easy-code-lab.vercel.app/)**  
+- 🔭Currently working on **👉[another portfolio website](https://v3-portfolio-website-2026.pages.dev/)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **Fullstack JS, Next.js, React and Prompt AI** 
