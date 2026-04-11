@@ -34,6 +34,8 @@
   <div align="center">
 
 - 🔐 [Awesome Privacy – Contribution](https://github.com/Lissy93/awesome-privacy/pull/492#event-24388014032)
+- 💼 [Developer Portfolios – Contribution](https://github.com/emmabostian/developer-portfolios/pull/3369)
+
 
 </div>
 
