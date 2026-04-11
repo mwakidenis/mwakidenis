@@ -30,7 +30,7 @@
 - ⚡ Fun fact: I love **tech & coding challenges!**
 
   ## Open Source Contributions
-  These are some selected open-source projects I have contributed to or been featured as a collaborator in, with merged changes:
+  These are some select open-source projects I have contributed to or been featured as a collaborator in, with merged changes:
 <div align="center">
 
 - 🔐 [Awesome Privacy – Contribution](https://github.com/Lissy93/awesome-privacy/pull/492#event-24388014032)
