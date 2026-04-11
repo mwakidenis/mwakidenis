@@ -28,6 +28,16 @@
 - I take great pride in helping to improve the ecosystem through **bug fixes**, **responding to issues**, and **developing new features**.
 - It is also important to me to ensure **accuracy**, **scalability**, and **security of the code** that I am involved with. 
 - ⚡ Fun fact: I love **tech & coding challenges!**
+
+  ## Open Source Contributions
+  These are some of the open source projects I have contributed to with merged changes:
+  <div align="center">
+
+- 🔐 [Awesome Privacy – Contribution](https://github.com/Lissy93/awesome-privacy/pull/492#event-24388014032)
+
+</div>
+
+  
   
 <div align="center">
 
