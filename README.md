@@ -11,12 +11,12 @@
 > **👨‍💻 About Me** <img height="40" alt="Mwaki Denis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 - 🔭 I’m **[mwakidenis](https://mitrokit-ventures-me.vercel.app/)**
-- 🏬Welcome to my **readme**
+- 🐛 **Another programmer writing bugs they'll fix later**
 - 🔭Currently working on **👉[another portfolio website](https://v3-portfolio-website-2026.pages.dev/)**  
 - 🌐 Visit my **recently completed project 👉[Mpesa Based Hotspot Billing System](https://github.com/mwakidenis/Mpesa-Based_WiFi_Billing_System)**
 - 🎮 **_NEW Features_**: **Mpesa payments**, **live inventory**, **responsive design**  
 - 🌱 I’m currently specializing in **Fullstack JS, Next.js, React and Prompt AI** 
-- 🌐 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
+- 🏬 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaria-denis-919351398?)<br>
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)<br>
