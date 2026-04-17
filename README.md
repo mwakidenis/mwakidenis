@@ -234,7 +234,13 @@ Keep stacking and clearing lines! 🚀<br>
 
 ---
 # 🐍 Slither Into My Code Kingdom 😂
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
+</picture>
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/github-snake-dark.svg" />
