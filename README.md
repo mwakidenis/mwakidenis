@@ -161,13 +161,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwakidenis&bg_color=000000&color=ffffff&line=87CEEB&point=87CEEB&area=true&hide_border=true&custom_title=Mwaki%20Denis's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
-
-<div align="center">
-
 <table>
 <tr>
 <td align="left" width="50%">
