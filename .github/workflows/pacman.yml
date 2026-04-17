@@ -2,7 +2,7 @@ name: Generate Pac-Man Game
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
