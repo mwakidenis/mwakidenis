@@ -33,7 +33,7 @@
   These are some select open-source projects I have contributed to or been featured as a collaborator in, with merged changes:
 <div align="center">
 
-- 🧩 [AWS Solutions Architect Brazil](https://github.com/Thiago-code-lab/aws-solutions-architect-brasil) 
+- 🧩 [AWS Solutions Architect Brazil - Collaborator](https://github.com/Thiago-code-lab/aws-solutions-architect-brasil) 
 - 🔐 [Awesome Privacy – Contribution](https://github.com/Lissy93/awesome-privacy/pull/492#event-24388014032)
 - 💼 [Developer Portfolios – Contribution](https://github.com/emmabostian/developer-portfolios/pull/3369)
 - 🧩 [OpenBento – Collaboration](https://github.com/SeifeddineJamei/OpenBento)
