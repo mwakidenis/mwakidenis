@@ -18,7 +18,6 @@
 - 🌱 I’m currently specializing in **Fullstack JS, Next.js, React and Prompt AI** 
 - 🏬 Pay a visit to my **👉[interactive portfolio](https://mwakidenis.pages.dev/)**
 - 📫 How to reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaria-denis-919351398?)<br>
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Apro5550)<br>
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com) <br>
 ![WARNING](https://img.shields.io/badge/🚫_NO_FREE_ADVISORY-red?style=flat)<br>
@@ -213,7 +212,6 @@ Keep stacking and clearing lines! 🚀<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mwakidenis/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/l/6lp1kJRRR)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@denicemwaki?si=rewYQiy379ztYPVN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaaria-denis-919351398?/)
 
 ---
 # 🐍 Slither Into My Code Kingdom 😂
