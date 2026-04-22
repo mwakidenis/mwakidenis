@@ -26,7 +26,7 @@
 - My current open source activity is highly focused on the **Javascript** ecosystem
 - I take great pride in helping to improve the ecosystem through **bug fixes**, **responding to issues**, and **developing new features**.
 - It is also important to me to ensure **accuracy**, **scalability**, and **security of the code** that I am involved with. 
-- ⚡ Fun fact: I love **tech & coding challenges!**
+- ⚡ Fun fact: **It works on my machine😃!**
 
 
 </div>
