@@ -1,4 +1,4 @@
-<div align="center">
+⁰<div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
     width="100%" 
@@ -215,8 +215,8 @@ Keep stacking and clearing lines! 🚀<br>
 
 ---
 # My Code Kingdom 😂
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
+</picture">
 
 ---
 
