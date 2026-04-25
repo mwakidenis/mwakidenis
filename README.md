@@ -214,12 +214,9 @@ Keep stacking and clearing lines! 🚀<br>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@denicemwaki?si=rewYQiy379ztYPVN)
 
 ---
-# 🐍 Slither Into My Code Kingdom 😂
+# My Code Kingdom 😂
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
