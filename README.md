@@ -215,7 +215,7 @@ Keep stacking and clearing lines! 🚀<br>
 
 ---
 # My Code Kingdom 😂
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/mwakidenis/mwakidenis/output/pacman-contribution-graph.svg">
 </picture">
 
 ---
