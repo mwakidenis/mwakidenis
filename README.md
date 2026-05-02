@@ -1,4 +1,4 @@
-⁰<div align="center">
+⁰⁰<div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
     width="100%" 
@@ -225,7 +225,7 @@ Keep stacking and clearing lines! 🚀<br>
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Mwaki+Denis+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Mwaki+Denis+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+Mpesa+Hotspot+Billing+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p>
 
 [![Mwaki's gitartwork](gitartwork.svg)](https://github.com/mwakidenis)
