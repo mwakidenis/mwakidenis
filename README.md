@@ -66,21 +66,7 @@
     </tr>
   </table>
 
-  <div align="center">
-    <a href="https://user-badge.committers.top/kenya_public/mwakidenis">
-      <img src="https://user-badge.committers.top/kenya_public/mwakidenis.svg" height="24" />
-    </a>
-<a href="https://user-badge.committers.top/kenya/Bd-mwakidenis">
-      <img src="https://user-badge.committers.top/kenya/mwakidenis.svg" height="24" />
-    </a>
-  </div>
-  
-<div align="center">
-      </a>
-<a href="https://user-badge.committers.top/kenya_private/mwakidenis">
-  <img src="https://user-badge.committers.top/kenya_private/mwakidenis.svg" height="24" />
-</a>
-  </div>
+
   
 </div>
 
