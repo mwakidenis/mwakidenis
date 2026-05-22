@@ -1,4 +1,4 @@
-<div align="center">
+0<div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
     width="100%" 
@@ -256,4 +256,4 @@ My progress can be tracked from GitRoll
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
-###### mwakidenis___________________________________________________________________________________________________© 2026 Mwaki Denis - Crafted with ❤️
+###### mwakidenis © 2026  Crafted with ❤️
