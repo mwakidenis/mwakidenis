@@ -22,7 +22,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mwakidenice@gmail.com) <br>
 ![WARNING](https://img.shields.io/badge/🚫_NO_FREE_ADVISORY-red?style=flat)<br>
 - Thank you for your interest. **I do not provide free consultations** and support services are offered starting $5.
-- 👯 I’m looking to collaborate on **exciting open-source projects**
+- 👯 I’m currently maintaining some of the most **exciting open-source projects**
 - My current open source activity is highly focused on the **Javascript** ecosystem
 - I take great pride in helping to improve the ecosystem through **bug fixes**, **responding to issues**, and **developing new features**.
 - It is also important to me to ensure **accuracy**, **scalability**, and **security of the code** that I am involved with. 
