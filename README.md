@@ -256,7 +256,7 @@ Huge thanks to the wonderful people who sponsor me on GitHub. Your support helps
 <!-- readme: sponsors -end -->
 
 ### ☕ Fuel my next project 
-
+All my projects will remain 100% free and open source. But due to the amount of traffic that the hosted instance gets, the lambda function usage is costing about $15/month. Any help with covering the costs via GitHub Sponsorship would be much appreciated
 <p align="center">
   <a href="https://github.com/sponsors/mwakidenis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
