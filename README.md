@@ -234,7 +234,6 @@ Keep stacking and clearing lines! 🚀<br>
 
 I extend my heartfelt gratitude for any invaluable contribution to my projects! Your efforts play a significant role in improving and elevating these repositories to greater heights.
 
---- 
 ### Sponsors
 
 Huge thanks to the wonderful people who sponsor me on GitHub. Your support helps cover the costs required to keep my projects free for everyone.. Consider joining them by [sponsoring me on GitHub](https://github.com/sponsors/mwakidenis) if you're able.
