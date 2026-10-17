@@ -234,25 +234,6 @@ Keep stacking and clearing lines! 🚀<br>
 
 I extend my heartfelt gratitude for any invaluable contribution to my projects! Your efforts play a significant role in improving and elevating these repositories to greater heights.
 
-### Sponsors
-
-Huge thanks to the wonderful people who sponsor me on GitHub. Your support helps cover the costs required to keep my projects free for everyone.. Consider joining them by [sponsoring me on GitHub](https://github.com/sponsors/mwakidenis) if you're able.
-
-<!-- readme: sponsors -start -->
-<table>
-    <tbody>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/SeifeddineJamei">
-                    <img src="https://github.com/SeifeddineJamei.png" width="80" alt="SeifeddineJamei"/>
-                    <br />
-                    <sub><b>Seifeddine Jamei</b></sub>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<!-- readme: sponsors -end -->
 
 ### ☕ Fuel my next project 
 All my projects will remain 100% free and open source. But due to the amount of traffic that the hosted instance gets, any help via GitHub Sponsorship would be much appreciated.
