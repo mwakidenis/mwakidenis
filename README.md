@@ -236,7 +236,7 @@ I extend my heartfelt gratitude for any invaluable contribution to my projects! 
 
 
 ### ☕ Fuel my next project 
-All my projects will remain 100% free and open source. But due to the underlying development costs, any help via GitHub Sponsorship would be much appreciated.
+All my projects will remain 100% free and open source. But due to the underlying development costs, any help via [GitHub Sponsorship](https://github.com/sponsors/mwakidenis) would be much appreciated.
 <p align="center">
   <a href="https://github.com/sponsors/mwakidenis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
